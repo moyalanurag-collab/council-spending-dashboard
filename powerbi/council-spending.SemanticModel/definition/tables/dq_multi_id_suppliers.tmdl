@@ -1,0 +1,40 @@
+table dq_multi_id_suppliers
+
+	column supplier_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: supplier_key
+
+	column supplier_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: supplier_name
+
+	column supplier_id_count
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: supplier_id_count
+
+	column supplier_ids
+		dataType: string
+		summarizeBy: none
+		sourceColumn: supplier_ids
+
+	column total_amount
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: total_amount
+
+	partition dq_multi_id_suppliers = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dq_multi_id_suppliers.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"supplier_key", Int64.Type}, {"supplier_name", type text}, {"supplier_id_count", Int64.Type}, {"supplier_ids", type text}, {"total_amount", type number}}, "en-GB")
+				in
+					Typed

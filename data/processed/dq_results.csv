@@ -1,0 +1,23 @@
+check_id,dimension,check_name,rows_affected,rows_total,pct_affected,amount_affected,result,how_handled
+DQ01,Reconciliation,Staged rows = fact rows + excluded rows,0,37267,0.0,,PASS,Row-count invariant: nothing is silently dropped
+DQ02,Reconciliation,Fact total (GBP) = cleaned source total (GBP),0,1,,0.0,PASS,Joins to dimensions neither lose nor multiply rows/value
+DQ03,Completeness,Completely blank rows in source files,6,37267,0.016,0.0,WARN,Excluded (reason BLANK_ROW)
+DQ04,Validity,Rows with missing / non-numeric amount,0,37267,0.0,0.0,PASS,Excluded (reason INVALID_AMOUNT)
+DQ05,Validity,Rows with unparseable payment date,0,37267,0.0,0.0,PASS,Excluded (reason INVALID_DATE)
+DQ06,Completeness,Rows with no supplier name,0,37267,0.0,0.0,PASS,Excluded (reason MISSING_SUPPLIER)
+DQ07,Uniqueness,Exact duplicate rows (all business columns identical),0,37267,0.0,0.0,PASS,"Earliest copy kept, later copies excluded (reason DUPLICATE_ROW)"
+DQ08,Completeness,Valid payments missing a source Supplier ID,0,37261,0.0,0.0,PASS,Kept; supplier identity falls back to the normalised name
+DQ09,Validity,Payment date falls outside the month of the file it was published in,0,37261,0.0,0.0,PASS,"Kept; report period = payment date, not file month"
+DQ10,Coverage,Calendar months with no payments between first and last month,0,14,,,PASS,A missing monthly file would show here
+DQ11,Consistency,Suppliers whose name appears in 2+ spellings (merged),14,2645,0.529,,WARN,"Merged on normalised name (case, punctuation, LTD/LIMITED/PLC ...)"
+DQ12,Consistency,Supplier IDs reused by different suppliers,32,3119,1.026,8601391.94,WARN,Not merged - supplier identity is name-based; listed in dq_supplier_id_conflicts for the council to fix
+DQ13,Uniqueness,Suppliers registered under 2+ Supplier IDs (duplicate vendor records),22,2645,0.832,16843974.89,WARN,Combined into one supplier_key; listed in dq_multi_id_suppliers
+DQ14,Consistency,Lines with a spend category not in ref_spend_category,0,37261,0.0,0.0,PASS,"Shown as theme ""Unmapped"" - add the label to sql/02_reference_data.sql"
+DQ15,Consistency,Lines with a directorate not in ref_department,0,37261,0.0,0.0,PASS,"Shown as expenditure_type ""Unmapped"" - add to sql/02_reference_data.sql"
+DQ16,Consistency,Distinct raw department labels merged into fewer clean directorates,11,27,,,INFO,Capital / revenue prefixes split out into expenditure_type; &/AND variants unified
+DQ17,Uniqueness,"Possible duplicate payments (same supplier, day and amount, >= GBP 1,000)",4301,37261,11.543,27427253.62,WARN,Kept; flagged is_possible_duplicate_payment. Many are legitimate batch payments - review list in dq_possible_duplicate_payments
+DQ18,Validity,Zero-value payment lines,1,37261,0.003,0.0,WARN,Kept
+DQ19,Profile,Credit notes / refunds (negative amounts),467,37261,1.253,-7743077.74,INFO,Kept - they reduce net spend; flagged is_credit_note
+DQ20,Profile,"Lines under GBP 500 (threshold applies to the invoice, not each line)",1678,37261,4.503,542675.8,INFO,Kept; flagged is_below_threshold
+DQ21,Profile,Payments to redacted (personal-data) payees,2986,37261,8.014,6667971.41,INFO,Each redacted payee ID kept separate; excluded from supplier rankings via is_redacted
+DQ22,Profile,Suppliers the sector heuristic could not classify,751,3148,23.856,,INFO,"supplier_type = ""Other / unclassified"" (mostly individuals, sole traders, surgeries)"

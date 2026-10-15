@@ -1,0 +1,23 @@
+model Model
+	culture: en-GB
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: en-GB
+
+ref table fact_payments
+ref table dim_date
+ref table dim_supplier
+ref table dim_directorate
+ref table dim_service_area
+ref table dim_spend_category
+ref table dim_purpose
+ref table dq_results
+ref table dq_possible_duplicate_payments
+ref table dq_supplier_id_conflicts
+ref table dq_multi_id_suppliers
+ref table excluded_rows
+ref table ml_predictions
+ref table _Measures
+
+ref expression DataFolder
+ref expression fnTidyName

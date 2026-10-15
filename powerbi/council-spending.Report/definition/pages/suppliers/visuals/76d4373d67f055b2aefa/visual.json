@@ -1,0 +1,117 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "76d4373d67f055b2aefa",
+  "position": {
+    "x": 20,
+    "y": 224,
+    "z": 100,
+    "height": 258,
+    "width": 720,
+    "tabOrder": 100
+  },
+  "visual": {
+    "visualType": "lineClusteredColumnComboChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_supplier"
+                    }
+                  },
+                  "Property": "supplier_display"
+                }
+              },
+              "queryRef": "dim_supplier.supplier_display",
+              "nativeQueryRef": "supplier_display",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Net Spend (Top 15 Suppliers)"
+                }
+              },
+              "queryRef": "_Measures.Net Spend (Top 15 Suppliers)",
+              "nativeQueryRef": "Net Spend (Top 15 Suppliers)",
+              "active": true
+            }
+          ]
+        },
+        "Y2": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Cumulative Share % (Top 15)"
+                }
+              },
+              "queryRef": "_Measures.Cumulative Share % (Top 15)",
+              "nativeQueryRef": "Cumulative Share % (Top 15)",
+              "active": true
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "_Measures"
+                  }
+                },
+                "Property": "Net Spend (Top 15 Suppliers)"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Top 15 suppliers: net spend and cumulative share of named-supplier spend'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+table dim_directorate
+
+	column directorate_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: directorate_key
+
+	column directorate
+		dataType: string
+		summarizeBy: none
+		sourceColumn: directorate
+
+	partition dim_directorate = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dim_directorate.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"directorate_key", Int64.Type}, {"directorate", type text}}, "en-GB")
+				in
+					Typed

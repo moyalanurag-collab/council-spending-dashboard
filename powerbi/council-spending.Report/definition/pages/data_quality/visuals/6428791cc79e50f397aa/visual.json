@@ -1,0 +1,112 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "6428791cc79e50f397aa",
+  "position": {
+    "x": 440,
+    "y": 496,
+    "z": 120,
+    "height": 192,
+    "width": 410,
+    "tabOrder": 120
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_supplier_id_conflicts"
+                    }
+                  },
+                  "Property": "source_supplier_id"
+                }
+              },
+              "queryRef": "dq_supplier_id_conflicts.source_supplier_id",
+              "nativeQueryRef": "source_supplier_id",
+              "active": true,
+              "displayName": "Supplier ID"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_supplier_id_conflicts"
+                    }
+                  },
+                  "Property": "names_using_id"
+                }
+              },
+              "queryRef": "dq_supplier_id_conflicts.names_using_id",
+              "nativeQueryRef": "names_using_id",
+              "active": true,
+              "displayName": "Names using this ID"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_supplier_id_conflicts"
+                    }
+                  },
+                  "Property": "total_amount"
+                }
+              },
+              "queryRef": "dq_supplier_id_conflicts.total_amount",
+              "nativeQueryRef": "total_amount",
+              "active": true,
+              "displayName": "Amount"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "dq_supplier_id_conflicts"
+                  }
+                },
+                "Property": "total_amount"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Supplier IDs used by different suppliers'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

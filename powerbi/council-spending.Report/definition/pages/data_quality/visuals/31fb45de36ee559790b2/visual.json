@@ -1,0 +1,112 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "31fb45de36ee559790b2",
+  "position": {
+    "x": 860,
+    "y": 496,
+    "z": 130,
+    "height": 192,
+    "width": 400,
+    "tabOrder": 130
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_multi_id_suppliers"
+                    }
+                  },
+                  "Property": "supplier_name"
+                }
+              },
+              "queryRef": "dq_multi_id_suppliers.supplier_name",
+              "nativeQueryRef": "supplier_name",
+              "active": true,
+              "displayName": "Supplier"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_multi_id_suppliers"
+                    }
+                  },
+                  "Property": "supplier_ids"
+                }
+              },
+              "queryRef": "dq_multi_id_suppliers.supplier_ids",
+              "nativeQueryRef": "supplier_ids",
+              "active": true,
+              "displayName": "Supplier IDs"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_multi_id_suppliers"
+                    }
+                  },
+                  "Property": "total_amount"
+                }
+              },
+              "queryRef": "dq_multi_id_suppliers.total_amount",
+              "nativeQueryRef": "total_amount",
+              "active": true,
+              "displayName": "Amount"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "dq_multi_id_suppliers"
+                  }
+                },
+                "Property": "total_amount"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Suppliers held under several IDs'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

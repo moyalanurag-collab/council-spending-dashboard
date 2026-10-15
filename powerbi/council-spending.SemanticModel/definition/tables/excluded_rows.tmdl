@@ -1,0 +1,45 @@
+table excluded_rows
+
+	column stg_id
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: stg_id
+
+	column source_file
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column source_period
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_period
+
+	column source_row
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: source_row
+
+	column exclusion_reason
+		dataType: string
+		summarizeBy: none
+		sourceColumn: exclusion_reason
+
+	column amount
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: amount
+
+	partition excluded_rows = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "excluded_rows.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"stg_id", Int64.Type}, {"source_file", type text}, {"source_period", type text}, {"source_row", Int64.Type}, {"exclusion_reason", type text}, {"amount", type number}}, "en-GB")
+				in
+					Typed

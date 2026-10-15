@@ -1,0 +1,32 @@
+{
+  "name": "Council Spending",
+  "dataColors": ["#2F5D8A", "#E07B39", "#4C9F70", "#B5484C", "#8A6BB0", "#C9A227", "#3C9DB0", "#7A7A7A", "#D98BA5"],
+  "background": "#FFFFFF",
+  "foreground": "#222222",
+  "tableAccent": "#2F5D8A",
+  "good": "#4C9F70",
+  "neutral": "#C9A227",
+  "bad": "#B5484C",
+  "maximum": "#2F5D8A",
+  "center": "#C9A227",
+  "minimum": "#E6EEF5",
+  "textClasses": {
+    "title":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#222222" },
+    "label":  { "fontFace": "Segoe UI", "fontSize": 10, "color": "#444444" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 22, "color": "#2F5D8A" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontSize": 12, "fontColor": { "solid": { "color": "#222222" } } }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E6E6E6" } }, "radius": 6 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F6F7F9" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

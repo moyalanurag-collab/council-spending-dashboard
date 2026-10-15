@@ -1,0 +1,99 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "61c5004dfcfa51b989b3",
+  "position": {
+    "x": 20,
+    "y": 130,
+    "z": 60,
+    "height": 300,
+    "width": 760,
+    "tabOrder": 60
+  },
+  "visual": {
+    "visualType": "pivotTable",
+    "query": {
+      "queryState": {
+        "Rows": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_directorate"
+                    }
+                  },
+                  "Property": "directorate"
+                }
+              },
+              "queryRef": "dim_directorate.directorate",
+              "nativeQueryRef": "directorate",
+              "active": true
+            }
+          ]
+        },
+        "Columns": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_spend_category"
+                    }
+                  },
+                  "Property": "spend_theme"
+                }
+              },
+              "queryRef": "dim_spend_category.spend_theme",
+              "nativeQueryRef": "spend_theme",
+              "active": true
+            }
+          ]
+        },
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Net Spend"
+                }
+              },
+              "queryRef": "_Measures.Net Spend",
+              "nativeQueryRef": "Net Spend",
+              "active": true
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Net spend: directorate x theme'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

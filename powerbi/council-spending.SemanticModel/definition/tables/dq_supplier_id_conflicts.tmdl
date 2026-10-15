@@ -1,0 +1,39 @@
+table dq_supplier_id_conflicts
+
+	column source_supplier_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_supplier_id
+
+	column distinct_suppliers
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: distinct_suppliers
+
+	column names_using_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: names_using_id
+
+	column payment_lines
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: payment_lines
+
+	column total_amount
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: total_amount
+
+	partition dq_supplier_id_conflicts = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dq_supplier_id_conflicts.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"source_supplier_id", type text}, {"distinct_suppliers", Int64.Type}, {"names_using_id", type text}, {"payment_lines", Int64.Type}, {"total_amount", type number}}, "en-GB")
+				in
+					Typed

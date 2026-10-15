@@ -1,0 +1,33 @@
+spend_category_key,spend_category,spend_theme
+1,Financial services,"Corporate, finance & legal"
+2,Legal (excl. counsel fees),"Corporate, finance & legal"
+3,Legal counsel fees,"Corporate, finance & legal"
+4,Professional services (consultants),"Corporate, finance & legal"
+5,Education & sports,Education & children
+6,Environmental services,"Environment, transport & utilities"
+7,Grounds maintenance,"Environment, transport & utilities"
+8,Traffic management & highways,"Environment, transport & utilities"
+9,Utilities,"Environment, transport & utilities"
+10,Vehicles & transport,"Environment, transport & utilities"
+11,"Advertising, events & publicity",General goods & services
+12,Catering,General goods & services
+13,"Facilities management, mail & clothing",General goods & services
+14,General goods & services,General goods & services
+15,Office supplies,General goods & services
+16,Retail,General goods & services
+17,Sundry suppliers (excl. refunds),General goods & services
+18,Grants & allowances,"Grants, voluntary & public bodies"
+19,Homes for Ukraine,"Grants, voluntary & public bodies"
+20,Intercompany (council group),"Grants, voluntary & public bodies"
+21,Local authorities / central government,"Grants, voluntary & public bodies"
+22,Voluntary organisations,"Grants, voluntary & public bodies"
+23,Accommodation (housing),Housing & construction
+24,Construction industry suppliers (CIS),Housing & construction
+25,"ICT hardware, software & networks",ICT & digital
+26,Care providers,Social care & health
+27,Foster carers,Social care & health
+28,Public health,Social care & health
+29,"Social, community care & healthcare",Social care & health
+30,Agency staff,Workforce
+31,Employees / pensions,Workforce
+32,Human resources,Workforce

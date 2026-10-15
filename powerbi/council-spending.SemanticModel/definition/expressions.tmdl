@@ -1,0 +1,17 @@
+expression DataFolder = "C:\Users\Kirtan Chanllawala\Downloads\council-spending-dashboard\data\processed\" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
+	lineageTag: e6c4a43b-658a-519a-932c-969e5ac01fec
+
+expression fnTidyName =
+		let
+		    Acronyms = [Nhs = "NHS", Uk = "UK", Llp = "LLP", Plc = "PLC", Icb = "ICB", Cic = "CIC", Hmrc = "HMRC",
+		                Ict = "ICT", Hr = "HR", Pvt = "PVT", Gp = "GP", Llc = "LLC", Cnwl = "CNWL", Mgt = "MGT"],
+		    fn = (name as nullable text) as nullable text =>
+		        if name = null then null else
+		        Text.Combine(
+		            List.Transform(
+		                Text.Split(Text.Proper(name), " "),
+		                (w) => if Record.HasFields(Acronyms, w) then Record.Field(Acronyms, w) else w),
+		            " ")
+		in
+		    fn
+	lineageTag: 4242c1bf-8206-5fef-8270-683d7f0a0d9b

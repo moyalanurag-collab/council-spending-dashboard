@@ -1,0 +1,112 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "bd20870eba505f6cb2c0",
+  "position": {
+    "x": 20,
+    "y": 496,
+    "z": 110,
+    "height": 192,
+    "width": 410,
+    "tabOrder": 110
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_possible_duplicate_payments"
+                    }
+                  },
+                  "Property": "supplier_name"
+                }
+              },
+              "queryRef": "dq_possible_duplicate_payments.supplier_name",
+              "nativeQueryRef": "supplier_name",
+              "active": true,
+              "displayName": "Supplier"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_possible_duplicate_payments"
+                    }
+                  },
+                  "Property": "payment_date"
+                }
+              },
+              "queryRef": "dq_possible_duplicate_payments.payment_date",
+              "nativeQueryRef": "payment_date",
+              "active": true,
+              "displayName": "Date"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dq_possible_duplicate_payments"
+                    }
+                  },
+                  "Property": "amount"
+                }
+              },
+              "queryRef": "dq_possible_duplicate_payments.amount",
+              "nativeQueryRef": "amount",
+              "active": true,
+              "displayName": "Amount"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "dq_possible_duplicate_payments"
+                  }
+                },
+                "Property": "amount"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Possible duplicate payments (review list)'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

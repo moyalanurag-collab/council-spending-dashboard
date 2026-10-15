@@ -1,0 +1,160 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "9a09ad9a8be45076b07d",
+  "position": {
+    "x": 20,
+    "y": 492,
+    "z": 120,
+    "height": 196,
+    "width": 740,
+    "tabOrder": 120
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Supplier Rank"
+                }
+              },
+              "queryRef": "_Measures.Supplier Rank",
+              "nativeQueryRef": "Supplier Rank",
+              "active": true,
+              "displayName": "Rank"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_supplier"
+                    }
+                  },
+                  "Property": "supplier_display"
+                }
+              },
+              "queryRef": "dim_supplier.supplier_display",
+              "nativeQueryRef": "supplier_display",
+              "active": true,
+              "displayName": "Supplier"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_supplier"
+                    }
+                  },
+                  "Property": "supplier_type"
+                }
+              },
+              "queryRef": "dim_supplier.supplier_type",
+              "nativeQueryRef": "supplier_type",
+              "active": true,
+              "displayName": "Type"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Net Spend (Named Suppliers)"
+                }
+              },
+              "queryRef": "_Measures.Net Spend (Named Suppliers)",
+              "nativeQueryRef": "Net Spend (Named Suppliers)",
+              "active": true,
+              "displayName": "Net spend"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Share of Total %"
+                }
+              },
+              "queryRef": "_Measures.Share of Total %",
+              "nativeQueryRef": "Share of Total %",
+              "active": true,
+              "displayName": "Share"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Measures"
+                    }
+                  },
+                  "Property": "Named Payment Lines"
+                }
+              },
+              "queryRef": "_Measures.Named Payment Lines",
+              "nativeQueryRef": "Named Payment Lines",
+              "active": true,
+              "displayName": "Lines"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "_Measures"
+                  }
+                },
+                "Property": "Net Spend (Named Suppliers)"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Named suppliers ranked by net spend'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

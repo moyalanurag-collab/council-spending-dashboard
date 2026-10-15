@@ -1,0 +1,19 @@
+# raw downloads and the working database are re-creatable with `python run_pipeline.py --download`
+data/raw/
+data/*.db
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.vscode/
+*.pbix.bak
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+.RData
+.Rproj.user/

@@ -1,0 +1,34 @@
+relationship 8a72ed0a-168d-5fa2-8104-6faec651f9fa
+	fromColumn: fact_payments.date_key
+	toColumn: dim_date.date_key
+
+relationship 75a649b4-aa13-53fc-adbc-b558aacf7688
+	fromColumn: fact_payments.supplier_key
+	toColumn: dim_supplier.supplier_key
+
+relationship a0cc7faa-fa23-5074-b2a4-879267b91046
+	fromColumn: fact_payments.directorate_key
+	toColumn: dim_directorate.directorate_key
+
+relationship 1d2cf41a-ad29-5118-a56a-f91598bfcdea
+	fromColumn: fact_payments.service_area_key
+	toColumn: dim_service_area.service_area_key
+
+relationship 1ed3d4ae-1a6b-555f-93e9-5c3304f567ee
+	fromColumn: fact_payments.spend_category_key
+	toColumn: dim_spend_category.spend_category_key
+
+relationship cbea2e1d-ff9f-54f1-83a0-16271aab46aa
+	fromColumn: fact_payments.purpose_key
+	toColumn: dim_purpose.purpose_key
+
+relationship b7949711-a246-5251-affc-7b4699a2e128
+	isActive: false
+	fromColumn: dim_supplier.first_payment_date
+	toColumn: dim_date.date
+
+relationship a48cf196-d7b2-5e74-8b57-aeb94d1503ca
+	fromCardinality: one
+	crossFilteringBehavior: bothDirections
+	fromColumn: ml_predictions.payment_id
+	toColumn: fact_payments.payment_id

@@ -1,0 +1,128 @@
+table fact_payments
+
+	column payment_id
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: payment_id
+
+	column date_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: date_key
+
+	column supplier_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: supplier_key
+
+	column directorate_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: directorate_key
+
+	column service_area_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: service_area_key
+
+	column spend_category_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: spend_category_key
+
+	column purpose_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: purpose_key
+
+	column expenditure_type
+		dataType: string
+		summarizeBy: none
+		sourceColumn: expenditure_type
+
+	column transaction_number
+		dataType: string
+		summarizeBy: none
+		sourceColumn: transaction_number
+
+	column source_supplier_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_supplier_id
+
+	column source_supplier_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_supplier_name
+
+	column source_period
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_period
+
+	column source_file
+		dataType: string
+		isHidden
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column source_row
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: source_row
+
+	column amount
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: amount
+
+	column irrecoverable_vat
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: irrecoverable_vat
+
+	column is_credit_note
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: is_credit_note
+
+	column is_below_threshold
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: is_below_threshold
+
+	column is_possible_duplicate_payment
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: is_possible_duplicate_payment
+
+	partition fact_payments = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "fact_payments.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"payment_id", Int64.Type}, {"date_key", Int64.Type}, {"supplier_key", Int64.Type}, {"directorate_key", Int64.Type}, {"service_area_key", Int64.Type}, {"spend_category_key", Int64.Type}, {"purpose_key", Int64.Type}, {"expenditure_type", type text}, {"transaction_number", type text}, {"source_supplier_id", type text}, {"source_supplier_name", type text}, {"source_period", type text}, {"source_file", type text}, {"source_row", Int64.Type}, {"amount", type number}, {"irrecoverable_vat", type number}, {"is_credit_note", Int64.Type}, {"is_below_threshold", Int64.Type}, {"is_possible_duplicate_payment", Int64.Type}}, "en-GB")
+				in
+					Typed

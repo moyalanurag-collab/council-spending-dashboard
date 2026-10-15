@@ -1,0 +1,60 @@
+table dq_results
+
+	column check_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: check_id
+
+	column dimension
+		dataType: string
+		summarizeBy: none
+		sourceColumn: dimension
+
+	column check_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: check_name
+
+	column rows_affected
+		dataType: int64
+		formatString: #,0
+		summarizeBy: none
+		sourceColumn: rows_affected
+
+	column rows_total
+		dataType: int64
+		formatString: #,0
+		summarizeBy: none
+		sourceColumn: rows_total
+
+	column pct_affected
+		dataType: double
+		formatString: 0.00
+		summarizeBy: none
+		sourceColumn: pct_affected
+
+	column amount_affected
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: amount_affected
+
+	column result
+		dataType: string
+		summarizeBy: none
+		sourceColumn: result
+
+	column how_handled
+		dataType: string
+		summarizeBy: none
+		sourceColumn: how_handled
+
+	partition dq_results = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dq_results.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"check_id", type text}, {"dimension", type text}, {"check_name", type text}, {"rows_affected", Int64.Type}, {"rows_total", Int64.Type}, {"pct_affected", type number}, {"amount_affected", type number}, {"result", type text}, {"how_handled", type text}}, "en-GB")
+				in
+					Typed

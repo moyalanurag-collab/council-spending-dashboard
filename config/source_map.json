@@ -1,0 +1,18 @@
+{
+  "_comment": "Maps the publisher's column names to the pipeline's standard names. To reuse the project for another council (e.g. a Scottish council), change the keys on the left to that council's headers - nothing else in the SQL needs to change.",
+  "council_name": "London Borough of Hounslow",
+  "licence": "UK Open Government Licence v3.0",
+  "source_url": "https://www.data.gov.uk/dataset/f713ba22-28ee-4be6-8a9a-3b15042a1f69/council-spending-over-f5001",
+  "columns": {
+    "OrganisationalUnit": "department",
+    "ServiceCategoryLabel": "service_area",
+    "BeneficiaryName": "supplier_name_raw",
+    "SupplierID": "supplier_id",
+    "PaymentDate": "payment_date",
+    "TransactionNumber": "transaction_number",
+    "Amount": "amount",
+    "IrrecoverableVATAmount": "irrecoverable_vat",
+    "Purpose": "purpose",
+    "CategoryInternalName": "spend_category"
+  }
+}

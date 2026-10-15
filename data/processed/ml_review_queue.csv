@@ -1,0 +1,1588 @@
+payment_id,supplier_name,amount,council_category,predicted_category,confidence
+11690,D + B FACADES UK LTD,745382.17,General goods & services,Professional services (consultants),0.8126
+8579,WEST AND NORTH LONDON ICB,634241.31,"Social, community care & healthcare",Grants & allowances,0.9186
+23492,TUDOR PARK EDUCATION TRUST,255491.0,General goods & services,Education & sports,0.9587
+22046,CRANFORD COMMUNITY ACADEMY ACCOUNT,251466.0,Grants & allowances,Education & sports,0.881
+23490,TUDOR PARK EDUCATION TRUST,251466.0,General goods & services,Education & sports,0.9587
+6425,EDUC8SEN LIMITED,244500.52,Grants & allowances,Education & sports,0.9595
+17156,EDUC8SEN LIMITED,219609.69,Grants & allowances,Education & sports,0.9595
+36095,LINDEN LODGE SCHOOL,214434.0,General goods & services,Education & sports,0.9503
+23491,TUDOR PARK EDUCATION TRUST,206198.45,General goods & services,Education & sports,0.9587
+28133,LINDEN LODGE SCHOOL,197985.0,General goods & services,Education & sports,0.9503
+9298,EDUC8SEN LIMITED,191625.25,Grants & allowances,Education & sports,0.9595
+14961,LINDEN LODGE SCHOOL,188807.0,General goods & services,Education & sports,0.9503
+19531,BRENTFORD SCHOOL FOR GIRLS (ACADEMY),183703.0,General goods & services,Education & sports,0.8781
+22045,CRANFORD COMMUNITY ACADEMY ACCOUNT,181562.89,Grants & allowances,Education & sports,0.881
+27352,EDUC8SEN LIMITED,170567.0,Grants & allowances,Education & sports,0.9595
+22634,LAMPTON SCHOOL ACADEMY TRUST,161323.2,Grants & allowances,Education & sports,0.9375
+22525,ISLEWORTH & SYON SCHOOL FOR BOYS,119964.49,Accommodation (housing),Education & sports,0.8748
+22069,DERBY ROAD ESTATE MANAGEMENT COMP LTD,103063.02,"Facilities management, mail & clothing",Accommodation (housing),0.8976
+11703,DERBY ROAD ESTATE MANAGEMENT COMP LTD,102915.0,"Facilities management, mail & clothing",Accommodation (housing),0.8976
+35483,DERBY ROAD ESTATE MANAGEMENT COMP LTD,102915.0,"Facilities management, mail & clothing",Accommodation (housing),0.8976
+24386,DERBY ROAD ESTATE MANAGEMENT COMP LTD,102915.0,"Facilities management, mail & clothing",Accommodation (housing),0.8976
+28319,NAS SERVICES LTD,102351.3,Voluntary organisations,Education & sports,0.9147
+28316,NAS SERVICES LTD,99544.86,Voluntary organisations,Education & sports,0.9147
+28314,NAS SERVICES LTD,94987.33,Voluntary organisations,Education & sports,0.9147
+22635,LAMPTON SCHOOL ACADEMY TRUST,89913.0,Grants & allowances,Education & sports,0.9375
+28312,NAS SERVICES LTD,88801.49,Voluntary organisations,Education & sports,0.9147
+8123,SSET - SHEILING COLLEGE,88621.43,General goods & services,Education & sports,0.8336
+28313,NAS SERVICES LTD,87532.82,Voluntary organisations,Education & sports,0.9147
+29272,SSET - SHEILING COLLEGE,86838.0,General goods & services,Education & sports,0.8336
+31633,SSET - SHEILING COLLEGE,86804.67,General goods & services,Education & sports,0.8336
+15821,SSET - SHEILING COLLEGE,86804.67,General goods & services,Education & sports,0.8336
+28318,NAS SERVICES LTD,86137.72,Voluntary organisations,Education & sports,0.9147
+28315,NAS SERVICES LTD,86137.72,Voluntary organisations,Education & sports,0.9147
+28317,NAS SERVICES LTD,86137.71,Voluntary organisations,Education & sports,0.9147
+8949,BEYOND AUTISM,74911.2,General goods & services,Education & sports,0.9275
+8945,BEYOND AUTISM,72172.1,General goods & services,Education & sports,0.9275
+8947,BEYOND AUTISM,72172.1,General goods & services,Education & sports,0.9275
+8946,BEYOND AUTISM,72172.1,General goods & services,Education & sports,0.9275
+19530,BRENTFORD SCHOOL FOR GIRLS (ACADEMY),71363.59,General goods & services,Education & sports,0.8781
+6327,CRANFORD COMMUNITY ACADEMY ACCOUNT,71012.38,Grants & allowances,Education & sports,0.881
+21109,THE EDEN ACADEMY T/A MOORCROFT SCHOOL,68221.23,General goods & services,Education & sports,0.8661
+676,CRANFORD COMMUNITY ACADEMY ACCOUNT,68158.0,Grants & allowances,Education & sports,0.881
+13863,ATLAS FM LIMITED,66913.54,Environmental services,General goods & services,0.8385
+23920,ATLAS FM LIMITED,66913.54,Environmental services,General goods & services,0.8385
+16672,ATLAS FM LIMITED,66913.54,Environmental services,General goods & services,0.8385
+28311,NAS SERVICES LTD,63301.94,Voluntary organisations,Education & sports,0.9147
+28305,NAS SERVICES LTD,62191.7,Voluntary organisations,Education & sports,0.9147
+21717,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+30067,ATLAS FM LIMITED,61623.99,Environmental services,General goods & services,0.8385
+21714,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+335,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+19402,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+11288,ATLAS FM LIMITED,61623.99,Environmental services,General goods & services,0.8385
+32269,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+8872,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+35086,ATLAS FM LIMITED,61623.99,Professional services (consultants),General goods & services,0.8385
+11400,BRENTFORD FC COMM.SPORTS TRUST,60000.0,Voluntary organisations,General goods & services,0.8244
+25128,LEARNING TREE CHILDCARE LTD,57852.0,Care providers,Education & sports,0.8219
+28307,NAS SERVICES LTD,57851.34,Voluntary organisations,Education & sports,0.9147
+28308,NAS SERVICES LTD,57851.34,Voluntary organisations,Education & sports,0.9147
+28306,NAS SERVICES LTD,57851.33,Voluntary organisations,Education & sports,0.9147
+28309,NAS SERVICES LTD,57851.33,Voluntary organisations,Education & sports,0.9147
+8124,SSET - SHEILING COLLEGE,55301.77,General goods & services,Education & sports,0.8336
+29271,SSET - SHEILING COLLEGE,54171.67,General goods & services,Education & sports,0.8336
+26060,SSET - SHEILING COLLEGE,54138.33,General goods & services,Education & sports,0.8336
+31632,SSET - SHEILING COLLEGE,54138.33,General goods & services,Education & sports,0.8336
+28310,NAS SERVICES LTD,52317.21,Voluntary organisations,Education & sports,0.9147
+8401,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,51990.12,Grants & allowances,Education & sports,0.8425
+18196,PARAYHOUSE SCHOOL,50701.0,General goods & services,Education & sports,0.9053
+36404,PARAYHOUSE SCHOOL,50701.0,General goods & services,Education & sports,0.9053
+7485,PARAYHOUSE SCHOOL,50701.0,General goods & services,Education & sports,0.9053
+23922,ATLAS FM LIMITED,50594.56,Environmental services,General goods & services,0.8385
+13865,ATLAS FM LIMITED,50594.56,Environmental services,General goods & services,0.8385
+16674,ATLAS FM LIMITED,50594.56,Environmental services,General goods & services,0.8385
+28513,PARAYHOUSE SCHOOL,48986.0,General goods & services,Education & sports,0.9053
+29488,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,48144.0,Grants & allowances,Education & sports,0.8425
+9703,JAPANESE KNOTWEED LTD,47253.38,Environmental services,Professional services (consultants),0.8028
+26347,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,46563.27,Grants & allowances,Education & sports,0.8425
+8435,TUDOR PARK EDUCATION TRUST,43763.76,General goods & services,Education & sports,0.9587
+36512,PORTAKABIN LIMITED,43577.0,General goods & services,Vehicles & transport,0.9239
+32114,ADVANCED BUSINESS SOFTWARE AND SOLUTIONS LTD,42835.0,Education & sports,"ICT hardware, software & networks",0.8955
+13043,RIPPLEVALE SCHOOL LIMITED,42664.47,Grants & allowances,Education & sports,0.8753
+13861,ATLAS FM LIMITED,42316.4,Environmental services,General goods & services,0.8385
+8088,SMALL STEPS DAY NURSERY & PRE-SCHOOL,41710.5,Grants & allowances,Education & sports,0.8749
+2394,STORM ENVIRONMENTAL LIMITED,41362.4,Environmental services,General goods & services,0.8068
+1519,MERISTEM DESIGN LIMITED,39990.0,Environmental services,Professional services (consultants),0.8099
+33428,MERISTEM DESIGN LIMITED,39990.0,Environmental services,Professional services (consultants),0.8099
+33328,LINDEN LODGE SCHOOL,39233.0,General goods & services,Education & sports,0.9503
+25423,NOTTING HILL GENESIS,38735.97,Agency staff,Accommodation (housing),0.8938
+6912,ISLEWORTH & SYON SCHOOL FOR BOYS,38072.51,Accommodation (housing),Education & sports,0.8748
+26215,THE EDEN ACADEMY T/A MOORCROFT SCHOOL,37811.5,General goods & services,Education & sports,0.8661
+4178,LEARNING POOL LIMITED,36451.0,General goods & services,"ICT hardware, software & networks",0.8739
+22454,HOUNSLOW HIGHWAYS SERVICES LTD,36034.14,Financial services,Professional services (consultants),0.8797
+23392,THE EDEN ACADEMY T/A MOORCROFT SCHOOL,36010.96,General goods & services,Education & sports,0.8661
+1191,JAPANESE KNOTWEED LTD,35793.25,Environmental services,Professional services (consultants),0.8028
+8290,THE DE LACEY DAY NURSERY SCHOOL,35767.87,Grants & allowances,General goods & services,0.8468
+24772,HEDGEWOOD SCHOOL - LB OF HILLINGDON,35000.0,General goods & services,Education & sports,0.8328
+21716,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+8874,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+30069,ATLAS FM LIMITED,33651.87,Environmental services,General goods & services,0.8385
+21719,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+32271,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+35088,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+11290,ATLAS FM LIMITED,33651.87,Environmental services,General goods & services,0.8385
+19404,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+337,ATLAS FM LIMITED,33651.87,Professional services (consultants),General goods & services,0.8385
+7092,LADYBIRD LANE DAY NURSERY,33635.28,Grants & allowances,Education & sports,0.8004
+5584,ACORN CARE & EDUCATION LTD,33091.67,General goods & services,Education & sports,0.8952
+13643,ACORN CARE & EDUCATION LTD,33091.67,General goods & services,Education & sports,0.8952
+5576,ACORN CARE & EDUCATION LTD,33040.44,General goods & services,Education & sports,0.8952
+16356,ACORN CARE & EDUCATION LTD,33040.44,General goods & services,Education & sports,0.8952
+83,ACORN CARE & EDUCATION LTD,32078.1,General goods & services,Education & sports,0.8952
+34834,ACORN CARE & EDUCATION LTD,32078.1,General goods & services,Education & sports,0.8952
+26213,THE DE LACEY DAY NURSERY SCHOOL,31499.33,Grants & allowances,General goods & services,0.8468
+4133,KINGSLEY ROAD CARS LTD,31469.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+5608,ACORN CARE & EDUCATION LTD,31086.25,General goods & services,Education & sports,0.8952
+31777,TUDOR PARK EDUCATION TRUST,30878.35,General goods & services,Education & sports,0.9587
+4134,KINGSLEY ROAD CARS LTD,30798.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+10755,THE DE LACEY DAY NURSERY SCHOOL,30681.0,Grants & allowances,General goods & services,0.8468
+8289,THE DE LACEY DAY NURSERY SCHOOL,30330.52,Grants & allowances,General goods & services,0.8468
+34527,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,30271.92,Grants & allowances,Education & sports,0.8425
+7210,MALDEN OAKS,30000.0,Local authorities / central government,Education & sports,0.8724
+15022,MALDEN OAKS,30000.0,Local authorities / central government,Education & sports,0.8724
+14921,KINGSLEY ROAD CARS LTD,29746.75,"Social, community care & healthcare",Vehicles & transport,0.8138
+6657,HARVARD PARK PLAYGROUP,29447.55,Education & sports,General goods & services,0.8963
+8087,SMALL STEPS DAY NURSERY & PRE-SCHOOL,29351.01,Grants & allowances,Education & sports,0.8749
+11820,FAIRYLAND NURSERY,29282.0,Grants & allowances,Education & sports,0.8079
+26214,THE DE LACEY DAY NURSERY SCHOOL,29264.63,Grants & allowances,General goods & services,0.8468
+12306,KINGSLEY ROAD CARS LTD,29253.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+14920,KINGSLEY ROAD CARS LTD,29217.25,"Social, community care & healthcare",Vehicles & transport,0.8138
+20372,KINGSLEY ROAD CARS LTD,29081.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+26212,THE DE LACEY DAY NURSERY SCHOOL,28978.95,Grants & allowances,General goods & services,0.8468
+25482,ORACLE CORPORATION UK LTD,28918.14,General goods & services,"ICT hardware, software & networks",0.8308
+16358,ACORN CARE & EDUCATION LTD,28860.45,General goods & services,Education & sports,0.8952
+11059,ACORN CARE & EDUCATION LTD,28860.45,General goods & services,Education & sports,0.8952
+5569,ACORN CARE & EDUCATION LTD,28860.45,General goods & services,Education & sports,0.8952
+5587,ACORN CARE & EDUCATION LTD,28860.45,General goods & services,Education & sports,0.8952
+12307,KINGSLEY ROAD CARS LTD,28822.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+28042,KINGSLEY ROAD CARS LTD,28585.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+25237,MALDEN OAKS,28470.0,Local authorities / central government,Education & sports,0.8724
+33240,KINGSLEY ROAD CARS LTD,28442.25,"Social, community care & healthcare",Vehicles & transport,0.8138
+5574,ACORN CARE & EDUCATION LTD,28331.67,General goods & services,Education & sports,0.8952
+30956,KINGSLEY ROAD CARS LTD,28028.75,"Social, community care & healthcare",Vehicles & transport,0.8138
+34844,ACORN CARE & EDUCATION LTD,28019.86,General goods & services,Education & sports,0.8952
+34819,ACORN CARE & EDUCATION LTD,28019.86,General goods & services,Education & sports,0.8952
+77,ACORN CARE & EDUCATION LTD,28019.85,General goods & services,Education & sports,0.8952
+94,ACORN CARE & EDUCATION LTD,28019.85,General goods & services,Education & sports,0.8952
+35516,EDUC8SEN LIMITED,27984.3,Grants & allowances,Education & sports,0.9595
+33688,OSBORNES SOLICITORS,27910.55,Legal (excl. counsel fees),General goods & services,0.8802
+5565,ACORN CARE & EDUCATION LTD,27881.67,General goods & services,Education & sports,0.8952
+11060,ACORN CARE & EDUCATION LTD,27881.67,General goods & services,Education & sports,0.8952
+11821,FAIRYLAND NURSERY,26785.0,Grants & allowances,Education & sports,0.8079
+34271,SMALL STEPS DAY NURSERY & PRE-SCHOOL,26590.2,Grants & allowances,Education & sports,0.8749
+5606,ACORN CARE & EDUCATION LTD,26499.84,General goods & services,Education & sports,0.8952
+11085,ACORN CARE & EDUCATION LTD,26499.84,General goods & services,Education & sports,0.8952
+8400,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,26387.4,Grants & allowances,Education & sports,0.8425
+15931,THE DE LACEY DAY NURSERY SCHOOL,26353.8,Grants & allowances,General goods & services,0.8468
+2525,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,26332.8,Grants & allowances,Education & sports,0.8425
+5570,ACORN CARE & EDUCATION LTD,26069.61,General goods & services,Education & sports,0.8952
+26041,SMALL STEPS DAY NURSERY & PRE-SCHOOL,26013.0,Grants & allowances,Education & sports,0.8749
+34821,ACORN CARE & EDUCATION LTD,25756.03,General goods & services,Education & sports,0.8952
+76,ACORN CARE & EDUCATION LTD,25756.03,General goods & services,Education & sports,0.8952
+11053,ACORN CARE & EDUCATION LTD,25756.03,General goods & services,Education & sports,0.8952
+5594,ACORN CARE & EDUCATION LTD,25756.03,General goods & services,Education & sports,0.8952
+8671,ACORN CARE & EDUCATION LTD,25728.0,General goods & services,Education & sports,0.8952
+73,ACORN CARE & EDUCATION LTD,25728.0,General goods & services,Education & sports,0.8952
+29523,TUDOR PARK EDUCATION TRUST,25578.0,General goods & services,Education & sports,0.9587
+5572,ACORN CARE & EDUCATION LTD,25532.79,General goods & services,Education & sports,0.8952
+5583,ACORN CARE & EDUCATION LTD,25532.79,General goods & services,Education & sports,0.8952
+11063,ACORN CARE & EDUCATION LTD,25532.79,General goods & services,Education & sports,0.8952
+5575,ACORN CARE & EDUCATION LTD,25532.79,General goods & services,Education & sports,0.8952
+11064,ACORN CARE & EDUCATION LTD,25532.79,General goods & services,Education & sports,0.8952
+11080,ACORN CARE & EDUCATION LTD,25532.79,General goods & services,Education & sports,0.8952
+16774,BEYOND AUTISM,25480.0,General goods & services,Education & sports,0.9275
+34833,ACORN CARE & EDUCATION LTD,25310.3,General goods & services,Education & sports,0.8952
+91,ACORN CARE & EDUCATION LTD,25310.3,General goods & services,Education & sports,0.8952
+11068,ACORN CARE & EDUCATION LTD,25310.3,General goods & services,Education & sports,0.8952
+34273,SMALL STEPS DAY NURSERY & PRE-SCHOOL,25260.0,Grants & allowances,Education & sports,0.8749
+10754,THE DE LACEY DAY NURSERY SCHOOL,25155.9,Grants & allowances,General goods & services,0.8468
+12089,HEDGEWOOD SCHOOL - LB OF HILLINGDON,25000.0,General goods & services,Education & sports,0.8328
+26346,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,24817.65,Grants & allowances,Education & sports,0.8425
+107,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+88,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+34820,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+34822,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+11054,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+11051,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+5578,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+34835,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+34836,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+34851,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+5592,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+74,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+75,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+82,ACORN CARE & EDUCATION LTD,24789.12,General goods & services,Education & sports,0.8952
+5603,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+5607,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+5604,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+5601,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+5599,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+5596,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11086,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11091,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11093,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11094,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11089,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11087,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11088,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+5609,ACORN CARE & EDUCATION LTD,24720.0,General goods & services,Education & sports,0.8952
+11065,ACORN CARE & EDUCATION LTD,24393.0,General goods & services,Education & sports,0.8952
+33239,KINGSLEY ROAD CARS LTD,24288.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+8669,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+8673,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+8672,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+8676,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+34812,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+8674,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+111,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+81,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+93,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+110,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+34813,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+8675,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+114,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+117,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+118,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+116,ACORN CARE & EDUCATION LTD,24000.0,General goods & services,Education & sports,0.8952
+8288,THE DE LACEY DAY NURSERY SCHOOL,23710.05,Grants & allowances,General goods & services,0.8468
+34830,ACORN CARE & EDUCATION LTD,23682.53,General goods & services,Education & sports,0.8952
+78,ACORN CARE & EDUCATION LTD,23682.52,General goods & services,Education & sports,0.8952
+17813,KINGSLEY ROAD CARS LTD,23672.75,"Social, community care & healthcare",Vehicles & transport,0.8138
+5566,ACORN CARE & EDUCATION LTD,23568.12,General goods & services,Education & sports,0.8952
+11082,ACORN CARE & EDUCATION LTD,23568.12,General goods & services,Education & sports,0.8952
+25098,KINGSLEY ROAD CARS LTD,23565.25,"Social, community care & healthcare",Vehicles & transport,0.8138
+30583,H CAROLAN CONSTRUCTION,23492.65,General goods & services,Construction industry suppliers (CIS),0.8823
+16362,ACORN CARE & EDUCATION LTD,23331.67,General goods & services,Education & sports,0.8952
+5567,ACORN CARE & EDUCATION LTD,23331.67,General goods & services,Education & sports,0.8952
+10874,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,23113.02,Grants & allowances,Education & sports,0.8425
+5769,ALPHABET DAYCARE,23014.55,Grants & allowances,Education & sports,0.8117
+25099,KINGSLEY ROAD CARS LTD,22977.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+11070,ACORN CARE & EDUCATION LTD,22881.67,General goods & services,Education & sports,0.8952
+98,ACORN CARE & EDUCATION LTD,22881.67,General goods & services,Education & sports,0.8952
+34825,ACORN CARE & EDUCATION LTD,22881.67,General goods & services,Education & sports,0.8952
+5580,ACORN CARE & EDUCATION LTD,22881.67,General goods & services,Education & sports,0.8952
+5577,ACORN CARE & EDUCATION LTD,22881.67,General goods & services,Education & sports,0.8952
+11069,ACORN CARE & EDUCATION LTD,22881.67,General goods & services,Education & sports,0.8952
+31998,ACORN CARE & EDUCATION LTD,22881.66,General goods & services,Education & sports,0.8952
+34846,ACORN CARE & EDUCATION LTD,22881.66,General goods & services,Education & sports,0.8952
+34839,ACORN CARE & EDUCATION LTD,22881.66,General goods & services,Education & sports,0.8952
+11057,ACORN CARE & EDUCATION LTD,22630.0,General goods & services,Education & sports,0.8952
+5571,ACORN CARE & EDUCATION LTD,22630.0,General goods & services,Education & sports,0.8952
+32021,ACORN CARE & EDUCATION LTD,22630.0,General goods & services,Education & sports,0.8952
+34272,SMALL STEPS DAY NURSERY & PRE-SCHOOL,22499.4,Grants & allowances,Education & sports,0.8749
+9861,LADYBIRD LANE DAY NURSERY,22499.4,Grants & allowances,Education & sports,0.8004
+9167,COAT OF MANY COLOURS NURSERY,22499.4,Grants & allowances,Education & sports,0.8592
+13381,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,22492.8,Grants & allowances,Education & sports,0.8425
+22619,KINGSLEY ROAD CARS LTD,22244.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+11058,ACORN CARE & EDUCATION LTD,22000.0,General goods & services,Education & sports,0.8952
+102,ACORN CARE & EDUCATION LTD,22000.0,General goods & services,Education & sports,0.8952
+5564,ACORN CARE & EDUCATION LTD,22000.0,General goods & services,Education & sports,0.8952
+34818,ACORN CARE & EDUCATION LTD,22000.0,General goods & services,Education & sports,0.8952
+24698,HARVARD PARK PLAYGROUP,21954.08,Education & sports,General goods & services,0.8963
+6288,COAT OF MANY COLOURS NURSERY,21909.22,Grants & allowances,Education & sports,0.8592
+18182,OSBORNES SOLICITORS,21805.77,Legal (excl. counsel fees),General goods & services,0.8802
+29228,SMALL STEPS DAY NURSERY & PRE-SCHOOL,21652.02,Grants & allowances,Education & sports,0.8749
+7078,KINGSLEY ROAD CARS LTD,21642.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+5052,ST EDMUNDS CATHOLIC PRIMARY SCHOOL,21388.0,Grants & allowances,Education & sports,0.8753
+24435,ELLIOT AND PHELPS LIMITED,20998.8,Education & sports,General goods & services,0.8104
+30957,KINGSLEY ROAD CARS LTD,20986.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+7077,KINGSLEY ROAD CARS LTD,20935.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+17157,EDUC8SEN LIMITED,20913.27,Grants & allowances,Education & sports,0.9595
+35517,EDUC8SEN LIMITED,20913.27,Grants & allowances,Education & sports,0.9595
+15933,THE DE LACEY DAY NURSERY SCHOOL,20892.3,Grants & allowances,General goods & services,0.8468
+15793,SMALL STEPS DAY NURSERY & PRE-SCHOOL,20892.3,Grants & allowances,Education & sports,0.8749
+21639,ALPHATRACK SYSTEMS LTD,20800.0,Construction industry suppliers (CIS),General goods & services,0.8157
+9851,KINGSLEY ROAD CARS LTD,20695.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+25115,LADYBIRD LANE DAY NURSERY,20667.97,Grants & allowances,Education & sports,0.8004
+5600,ACORN CARE & EDUCATION LTD,20600.0,General goods & services,Education & sports,0.8952
+11095,ACORN CARE & EDUCATION LTD,20600.0,General goods & services,Education & sports,0.8952
+15795,SMALL STEPS DAY NURSERY & PRE-SCHOOL,20592.0,Grants & allowances,Education & sports,0.8749
+13167,ST EDMUNDS CATHOLIC PRIMARY SCHOOL,20523.0,Grants & allowances,Education & sports,0.8753
+11090,ACORN CARE & EDUCATION LTD,20428.33,General goods & services,Education & sports,0.8952
+5602,ACORN CARE & EDUCATION LTD,20428.33,General goods & services,Education & sports,0.8952
+2723,ACORN CARE & EDUCATION LTD,20428.33,General goods & services,Education & sports,0.8952
+11061,ACORN CARE & EDUCATION LTD,20428.33,General goods & services,Education & sports,0.8952
+3899,INTEGRATED SERVICES PROGRAMME,20377.0,General goods & services,Education & sports,0.8424
+24934,INTEGRATED SERVICES PROGRAMME,20377.0,General goods & services,Education & sports,0.8424
+24322,COAT OF MANY COLOURS NURSERY,20160.08,Grants & allowances,Education & sports,0.8592
+115,ACORN CARE & EDUCATION LTD,20000.0,General goods & services,Education & sports,0.8952
+25493,OSBORNES SOLICITORS,20000.0,Legal (excl. counsel fees),General goods & services,0.8802
+8670,ACORN CARE & EDUCATION LTD,20000.0,General goods & services,Education & sports,0.8952
+3446,ESP PLAY LTD,19990.0,General goods & services,Education & sports,0.9444
+29226,SMALL STEPS DAY NURSERY & PRE-SCHOOL,19968.0,Grants & allowances,Education & sports,0.8749
+34528,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,19840.38,Grants & allowances,Education & sports,0.8425
+34810,ACORN CARE & EDUCATION LTD,19833.34,General goods & services,Education & sports,0.8952
+34829,ACORN CARE & EDUCATION LTD,19833.34,General goods & services,Education & sports,0.8952
+31999,ACORN CARE & EDUCATION LTD,19833.34,General goods & services,Education & sports,0.8952
+100,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+11062,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+5598,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+5605,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+11055,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+11071,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+5597,ACORN CARE & EDUCATION LTD,19833.33,General goods & services,Education & sports,0.8952
+29487,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,19718.4,Grants & allowances,Education & sports,0.8425
+36805,SERENITY SCHOOL COULSDON,19667.0,Grants & allowances,Education & sports,0.8501
+36803,SERENITY SCHOOL COULSDON,19666.0,Grants & allowances,Education & sports,0.8501
+17812,KINGSLEY ROAD CARS LTD,19492.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+33419,ME LEARNING LTD,19475.0,Professional services (consultants),"ICT hardware, software & networks",0.8319
+2347,SMALL STEPS DAY NURSERY & PRE-SCHOOL,19344.0,Grants & allowances,Education & sports,0.8749
+16028,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,19324.8,Grants & allowances,Education & sports,0.8425
+13380,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,19285.2,Grants & allowances,Education & sports,0.8425
+16026,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,19285.2,Grants & allowances,Education & sports,0.8425
+5573,ACORN CARE & EDUCATION LTD,19133.12,General goods & services,Education & sports,0.8952
+11074,ACORN CARE & EDUCATION LTD,19133.12,General goods & services,Education & sports,0.8952
+24469,EVOLUTION PLAYGROUP,19090.5,Care providers,Education & sports,0.9801
+5589,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11081,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11076,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5590,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5588,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11083,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5585,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11067,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11084,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11073,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11079,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5568,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5579,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5586,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11066,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+16357,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+11072,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+5582,ACORN CARE & EDUCATION LTD,19012.53,General goods & services,Education & sports,0.8952
+21611,AJS LTD,18949.35,General goods & services,Construction industry suppliers (CIS),0.8047
+31022,MARY HARE GRAMMAR SCHOOL,18726.0,Voluntary organisations,Education & sports,0.8271
+31023,MARY HARE GRAMMAR SCHOOL,18726.0,Voluntary organisations,Education & sports,0.8271
+34840,ACORN CARE & EDUCATION LTD,18575.84,General goods & services,Education & sports,0.8952
+104,ACORN CARE & EDUCATION LTD,18575.84,General goods & services,Education & sports,0.8952
+29489,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,18525.48,Grants & allowances,Education & sports,0.8425
+34831,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34849,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34842,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34845,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34847,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34823,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34832,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34852,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34838,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34837,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+34841,ACORN CARE & EDUCATION LTD,18458.77,General goods & services,Education & sports,0.8952
+108,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+109,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+85,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+90,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+101,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+86,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+84,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+103,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+95,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+105,ACORN CARE & EDUCATION LTD,18458.76,General goods & services,Education & sports,0.8952
+36511,PORTAKABIN LIMITED,18374.0,General goods & services,Vehicles & transport,0.9239
+11092,ACORN CARE & EDUCATION LTD,18286.03,General goods & services,Education & sports,0.8952
+34556,TUDOR PARK EDUCATION TRUST,18232.0,General goods & services,Education & sports,0.8161
+29227,SMALL STEPS DAY NURSERY & PRE-SCHOOL,18223.2,Grants & allowances,Education & sports,0.8749
+2955,ATAMIS LTD,18162.1,General goods & services,"ICT hardware, software & networks",0.8496
+2442,THE DE LACEY DAY NURSERY SCHOOL,18043.35,Grants & allowances,General goods & services,0.8468
+28072,LADYBIRD LANE DAY NURSERY,18016.1,Grants & allowances,Education & sports,0.8004
+10756,THE DE LACEY DAY NURSERY SCHOOL,17920.0,Grants & allowances,General goods & services,0.8468
+10892,TUDOR PARK EDUCATION TRUST,17867.72,General goods & services,Education & sports,0.8161
+2524,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,17853.42,Grants & allowances,Education & sports,0.8425
+113,ACORN CARE & EDUCATION LTD,17767.89,General goods & services,Education & sports,0.8952
+13267,THE DE LACEY DAY NURSERY SCHOOL,17678.1,Grants & allowances,General goods & services,0.8468
+32419,BUCHANAN COMPUTING LIMITED,17660.0,General goods & services,"ICT hardware, software & networks",0.8735
+29394,THE DE LACEY DAY NURSERY SCHOOL,17616.0,Grants & allowances,General goods & services,0.8468
+5581,ACORN CARE & EDUCATION LTD,17476.94,General goods & services,Education & sports,0.8952
+5591,ACORN CARE & EDUCATION LTD,17476.94,General goods & services,Education & sports,0.8952
+11075,ACORN CARE & EDUCATION LTD,17476.94,General goods & services,Education & sports,0.8952
+11078,ACORN CARE & EDUCATION LTD,17476.94,General goods & services,Education & sports,0.8952
+29393,THE DE LACEY DAY NURSERY SCHOOL,17472.0,Grants & allowances,General goods & services,0.8468
+5562,ACORN CARE & EDUCATION LTD,-17399.66,General goods & services,Education & sports,0.8952
+23687,ACORN CARE & EDUCATION LTD,17399.66,General goods & services,Education & sports,0.8952
+5563,ACORN CARE & EDUCATION LTD,-17399.66,General goods & services,Education & sports,0.8952
+2552,TUDOR PARK EDUCATION TRUST,17243.0,General goods & services,Education & sports,0.8161
+30829,JAPANESE KNOTWEED LTD,17128.13,Environmental services,Professional services (consultants),0.8028
+2346,SMALL STEPS DAY NURSERY & PRE-SCHOOL,17093.7,Grants & allowances,Education & sports,0.8749
+24969,JAPANESE KNOTWEED LTD,17031.32,Environmental services,Professional services (consultants),0.8028
+96,ACORN CARE & EDUCATION LTD,16967.9,General goods & services,Education & sports,0.8952
+34850,ACORN CARE & EDUCATION LTD,16967.9,General goods & services,Education & sports,0.8952
+34843,ACORN CARE & EDUCATION LTD,16967.9,General goods & services,Education & sports,0.8952
+106,ACORN CARE & EDUCATION LTD,16967.9,General goods & services,Education & sports,0.8952
+15935,THE DE LACEY DAY NURSERY SCHOOL,16896.0,Grants & allowances,General goods & services,0.8468
+17183,ESP PLAY LTD,16810.0,General goods & services,Education & sports,0.9444
+23990,BARNARDO SERVICES LTD,16653.0,Voluntary organisations,Education & sports,0.8398
+11732,DYSART SCHOOL,16579.23,General goods & services,Education & sports,0.8467
+8434,TUDOR PARK EDUCATION TRUST,16533.78,General goods & services,Education & sports,0.9587
+34413,THE DE LACEY DAY NURSERY SCHOOL,16416.0,Grants & allowances,General goods & services,0.8468
+36510,PORTAKABIN LIMITED,16320.06,General goods & services,Vehicles & transport,0.9239
+6464,EVOLUTION PLAYGROUP,16258.12,Care providers,Education & sports,0.9801
+6463,EVOLUTION PLAYGROUP,16056.3,Care providers,Education & sports,0.9801
+23989,BARNARDO SERVICES LTD,16052.0,Voluntary organisations,Education & sports,0.8398
+23991,BARNARDO SERVICES LTD,16052.0,Voluntary organisations,Education & sports,0.8398
+32758,EVOLUTION PLAYGROUP,15972.0,Care providers,Education & sports,0.9801
+11077,ACORN CARE & EDUCATION LTD,15917.31,General goods & services,Education & sports,0.8952
+5593,ACORN CARE & EDUCATION LTD,15917.31,General goods & services,Education & sports,0.8952
+32422,BURLINGTON HOUSE SCHOOL LTD,15911.0,General goods & services,Education & sports,0.9168
+25114,LADYBIRD LANE DAY NURSERY,15845.21,Grants & allowances,Education & sports,0.8004
+15796,SMALL STEPS DAY NURSERY & PRE-SCHOOL,15840.0,Grants & allowances,Education & sports,0.8749
+16360,ACORN CARE & EDUCATION LTD,15828.27,General goods & services,Education & sports,0.8952
+21610,AJS LTD,15790.2,General goods & services,Construction industry suppliers (CIS),0.8047
+97,ACORN CARE & EDUCATION LTD,15787.51,General goods & services,Education & sports,0.8952
+87,ACORN CARE & EDUCATION LTD,15787.51,General goods & services,Education & sports,0.8952
+24470,EVOLUTION PLAYGROUP,15607.8,Care providers,Education & sports,0.9801
+2443,THE DE LACEY DAY NURSERY SCHOOL,15600.0,Grants & allowances,General goods & services,0.8468
+27608,HARVARD PARK PLAYGROUP,15524.32,Education & sports,General goods & services,0.8963
+6461,EVOLUTION PLAYGROUP,15496.65,Care providers,Education & sports,0.9801
+89,ACORN CARE & EDUCATION LTD,15453.7,General goods & services,Education & sports,0.8952
+80,ACORN CARE & EDUCATION LTD,15453.7,General goods & services,Education & sports,0.8952
+79,ACORN CARE & EDUCATION LTD,15453.7,General goods & services,Education & sports,0.8952
+92,ACORN CARE & EDUCATION LTD,15453.7,General goods & services,Education & sports,0.8952
+34848,ACORN CARE & EDUCATION LTD,15453.69,General goods & services,Education & sports,0.8952
+7216,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+28206,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+36144,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+17890,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+17891,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+7217,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+28207,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+36143,MARY HARE GRAMMAR SCHOOL,15393.0,Voluntary organisations,Education & sports,0.8271
+26040,SMALL STEPS DAY NURSERY & PRE-SCHOOL,15272.4,Grants & allowances,Education & sports,0.8749
+28071,LADYBIRD LANE DAY NURSERY,15240.56,Grants & allowances,Education & sports,0.8004
+33261,LADYBIRD LANE DAY NURSERY,15169.14,Grants & allowances,Education & sports,0.8004
+16447,AJS LTD,15161.79,General goods & services,Construction industry suppliers (CIS),0.8047
+27238,COAT OF MANY COLOURS NURSERY,15048.3,Grants & allowances,Education & sports,0.8592
+36140,MALDEN OAKS,15000.0,Local authorities / central government,Education & sports,0.8724
+33389,MALDEN OAKS,15000.0,Local authorities / central government,Education & sports,0.8724
+13201,STREETWISE SERVICES LTD,14980.0,General goods & services,Professional services (consultants),0.8094
+12321,LADYBIRD LANE DAY NURSERY,14976.0,Grants & allowances,Education & sports,0.8004
+30385,DYSART SCHOOL,14942.7,General goods & services,Education & sports,0.8467
+112,ACORN CARE & EDUCATION LTD,14913.11,General goods & services,Education & sports,0.8952
+461,BURLINGTON HOUSE SCHOOL LTD,14870.0,General goods & services,Education & sports,0.9168
+35234,BURLINGTON HOUSE SCHOOL LTD,14870.0,General goods & services,Education & sports,0.9168
+460,BURLINGTON HOUSE SCHOOL LTD,14870.0,General goods & services,Education & sports,0.9168
+22669,LINDEN LODGE SCHOOL,14737.8,General goods & services,Education & sports,0.9503
+9028,CARTER JONAS LLP,14735.0,Environmental services,Professional services (consultants),0.8293
+24663,H CAROLAN CONSTRUCTION,14704.93,General goods & services,Construction industry suppliers (CIS),0.8823
+25116,LADYBIRD LANE DAY NURSERY,14602.77,Grants & allowances,Education & sports,0.8004
+3080,BRENTFORD FC COMM.SPORTS TRUST,14500.0,Voluntary organisations,General goods & services,0.8187
+33262,LADYBIRD LANE DAY NURSERY,14491.2,Grants & allowances,Education & sports,0.8004
+923,HARVARD PARK PLAYGROUP,14352.0,Education & sports,General goods & services,0.8963
+34411,THE DE LACEY DAY NURSERY SCHOOL,14317.8,Grants & allowances,General goods & services,0.8468
+21955,CENTRAL ACADEMY LONDON,14300.0,General goods & services,Education & sports,0.9023
+21956,CENTRAL ACADEMY LONDON,14300.0,General goods & services,Education & sports,0.9023
+21954,CENTRAL ACADEMY LONDON,14300.0,General goods & services,Education & sports,0.9023
+21953,CENTRAL ACADEMY LONDON,14300.0,General goods & services,Education & sports,0.9023
+13041,RIPPLEVALE SCHOOL LIMITED,14289.73,Grants & allowances,Education & sports,0.8753
+13042,RIPPLEVALE SCHOOL LIMITED,-14289.73,Grants & allowances,Education & sports,0.8753
+13268,THE DE LACEY DAY NURSERY SCHOOL,14256.0,Grants & allowances,General goods & services,0.8468
+15934,THE DE LACEY DAY NURSERY SCHOOL,14256.0,Grants & allowances,General goods & services,0.8468
+660,COAT OF MANY COLOURS NURSERY,14244.75,Grants & allowances,Education & sports,0.8592
+1433,LIBERATA UK LTD,14209.34,General goods & services,"ICT hardware, software & networks",0.887
+18624,ST BENEDICT'S SCHOOL EALING,14176.0,Grants & allowances,Education & sports,0.8576
+467,BURLINGTON HOUSE SCHOOL LTD,14129.0,General goods & services,Education & sports,0.9168
+4327,NATIONWIDE ACCOMMODATION SERVICES LTD,14105.0,General goods & services,Accommodation (housing),0.9725
+28050,KINGSLEY ROAD CARS LTD,14101.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+470,BURLINGTON HOUSE SCHOOL LTD,14062.0,General goods & services,Education & sports,0.9168
+30156,BURLINGTON HOUSE SCHOOL LTD,14062.0,General goods & services,Education & sports,0.9168
+32782,FAIRYLAND NURSERY,13975.5,Grants & allowances,Education & sports,0.8079
+11047,ACORN CARE & EDUCATION LTD,13960.75,General goods & services,Education & sports,0.8952
+35235,BURLINGTON HOUSE SCHOOL LTD,13897.0,General goods & services,Education & sports,0.9168
+468,BURLINGTON HOUSE SCHOOL LTD,13897.0,General goods & services,Education & sports,0.9168
+34274,SMALL STEPS DAY NURSERY & PRE-SCHOOL,13824.0,Grants & allowances,Education & sports,0.8749
+16446,AJS LTD,13798.87,General goods & services,Construction industry suppliers (CIS),0.8047
+464,BURLINGTON HOUSE SCHOOL LTD,13795.0,General goods & services,Education & sports,0.9168
+469,BURLINGTON HOUSE SCHOOL LTD,13795.0,General goods & services,Education & sports,0.9168
+462,BURLINGTON HOUSE SCHOOL LTD,13795.0,General goods & services,Education & sports,0.9168
+463,BURLINGTON HOUSE SCHOOL LTD,13795.0,General goods & services,Education & sports,0.9168
+465,BURLINGTON HOUSE SCHOOL LTD,13795.0,General goods & services,Education & sports,0.9168
+23282,SCCI ALPHATRACK LTD,13770.0,General goods & services,Construction industry suppliers (CIS),0.9157
+7091,LADYBIRD LANE DAY NURSERY,13732.5,Grants & allowances,Education & sports,0.8004
+23283,SCCI ALPHATRACK LTD,13725.0,General goods & services,Construction industry suppliers (CIS),0.9157
+13117,SERENITY SCHOOL COULSDON,13667.0,Grants & allowances,Education & sports,0.8501
+26008,SERENITY SCHOOL COULSDON,13666.0,Grants & allowances,Education & sports,0.8501
+35949,JONES LANG LASALLE LIMITED,13662.0,Utilities,Professional services (consultants),0.816
+7290,NATIONWIDE ACCOMMODATION SERVICES LTD,13650.0,General goods & services,Accommodation (housing),0.9725
+20373,KINGSLEY ROAD CARS LTD,13508.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+24489,FAIRYLAND NURSERY,13363.35,Grants & allowances,Education & sports,0.8079
+12320,LADYBIRD LANE DAY NURSERY,13295.1,Grants & allowances,Education & sports,0.8004
+11617,COAT OF MANY COLOURS NURSERY,13200.0,Grants & allowances,Education & sports,0.8592
+13137,SMALL STEPS DAY NURSERY & PRE-SCHOOL,13200.0,Grants & allowances,Education & sports,0.8749
+466,BURLINGTON HOUSE SCHOOL LTD,13179.0,General goods & services,Education & sports,0.9168
+13266,THE DE LACEY DAY NURSERY SCHOOL,13176.9,Grants & allowances,General goods & services,0.8468
+794,EVOLUTION PLAYGROUP,13104.0,Care providers,Education & sports,0.9801
+21869,BURLINGTON HOUSE SCHOOL LTD,12999.0,General goods & services,Education & sports,0.9168
+21870,BURLINGTON HOUSE SCHOOL LTD,12999.0,General goods & services,Education & sports,0.9168
+22163,FAIRYLAND NURSERY,12977.25,Grants & allowances,Education & sports,0.8079
+23890,ASH SOLICITORS,12937.38,Accommodation (housing),Legal (excl. counsel fees),0.8563
+28043,KINGSLEY ROAD CARS LTD,12932.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+31776,TUDOR PARK EDUCATION TRUST,12885.41,General goods & services,Education & sports,0.9587
+27411,FAIRYLAND NURSERY,12767.0,Grants & allowances,Education & sports,0.8079
+4326,NATIONWIDE ACCOMMODATION SERVICES LTD,12740.0,General goods & services,Accommodation (housing),0.9725
+26969,BLAKEDOWN LANDSCAPES (SE) LTD,12687.47,Construction industry suppliers (CIS),Professional services (consultants),0.8227
+32757,EVOLUTION PLAYGROUP,12577.95,Care providers,Education & sports,0.9801
+36096,LINDEN LODGE SCHOOL,12441.0,General goods & services,Education & sports,0.9503
+11056,ACORN CARE & EDUCATION LTD,12360.0,General goods & services,Education & sports,0.8952
+5595,ACORN CARE & EDUCATION LTD,12360.0,General goods & services,Education & sports,0.8952
+791,EVOLUTION PLAYGROUP,12345.45,Care providers,Education & sports,0.9801
+32783,FAIRYLAND NURSERY,12272.4,Grants & allowances,Education & sports,0.8079
+17144,DYSART SCHOOL,12158.1,General goods & services,Education & sports,0.8467
+23494,TUDOR PARK EDUCATION TRUST,12147.92,General goods & services,Education & sports,0.8179
+16361,ACORN CARE & EDUCATION LTD,-12096.4,General goods & services,Education & sports,0.8952
+11616,COAT OF MANY COLOURS NURSERY,12053.25,Grants & allowances,Education & sports,0.8592
+34811,ACORN CARE & EDUCATION LTD,12000.0,General goods & services,Education & sports,0.8952
+99,ACORN CARE & EDUCATION LTD,12000.0,General goods & services,Education & sports,0.8952
+11046,ACORN CARE & EDUCATION LTD,11883.99,General goods & services,Education & sports,0.8952
+32421,BURLINGTON HOUSE SCHOOL LTD,11738.0,General goods & services,Education & sports,0.9168
+11731,DYSART SCHOOL,11699.97,General goods & services,Education & sports,0.8467
+25212,LONDON BUS SERVICES LTD,11646.54,Traffic management & highways,General goods & services,0.848
+32762,EVOLUTION PLAYGROUP,11616.0,Care providers,Education & sports,0.9801
+5770,ALPHABET DAYCARE,11454.3,Grants & allowances,Education & sports,0.8117
+6462,EVOLUTION PLAYGROUP,11454.3,Care providers,Education & sports,0.9801
+10875,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,11424.0,Grants & allowances,Education & sports,0.8425
+8436,TUDOR PARK EDUCATION TRUST,-11271.76,General goods & services,Education & sports,0.9587
+793,EVOLUTION PLAYGROUP,11232.0,Care providers,Education & sports,0.9801
+27390,EVOLUTION PLAYGROUP,11232.0,Care providers,Education & sports,0.9801
+7649,Q+,11100.0,General goods & services,Education & sports,0.9198
+11786,EVOLUTION PLAYGROUP,10980.75,Care providers,Education & sports,0.9801
+7804,REDACTED PERSONAL DATA,10762.05,Education & sports,Grants & allowances,0.8148
+6939,JONES LANG LASALLE LIMITED,10650.0,Utilities,Professional services (consultants),0.816
+16029,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,10560.0,Grants & allowances,Education & sports,0.8425
+6286,COAT OF MANY COLOURS NURSERY,10537.8,Grants & allowances,Education & sports,0.8592
+24321,COAT OF MANY COLOURS NURSERY,10499.78,Grants & allowances,Education & sports,0.8592
+14330,ELLIOT AND PHELPS LIMITED,10499.4,Education & sports,General goods & services,0.8104
+28708,Q+,10498.66,General goods & services,Education & sports,0.9198
+27391,EVOLUTION PLAYGROUP,10368.0,Care providers,Education & sports,0.9801
+504,CALFORD SEADEN LLP,10278.0,General goods & services,Professional services (consultants),0.8125
+29302,STAR PLAYER LTD,10270.0,General goods & services,Education & sports,0.9286
+22620,KINGSLEY ROAD CARS LTD,10257.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+35085,ATLAS FM LIMITED,10246.5,Professional services (consultants),General goods & services,0.8385
+35524,ELLIOT AND PHELPS LIMITED,10163.28,Education & sports,General goods & services,0.8104
+29469,THREE BRIDGES PRIMARY SCHOOL,10160.0,General goods & services,Education & sports,0.883
+6414,DYSART SCHOOL,10139.98,General goods & services,Education & sports,0.8467
+9168,COAT OF MANY COLOURS NURSERY,10080.0,Grants & allowances,Education & sports,0.8592
+21712,ATAMIS LTD,10041.0,General goods & services,"ICT hardware, software & networks",0.9028
+14331,ELLIOT AND PHELPS LIMITED,10011.4,Education & sports,General goods & services,0.8104
+26403,UNIQUE ACADEMY,10000.0,Grants & allowances,Education & sports,0.8253
+12404,MALDEN OAKS,10000.0,Local authorities / central government,Education & sports,0.8724
+7213,MALDEN OAKS,10000.0,Local authorities / central government,Education & sports,0.8724
+27289,DE LACEY ELMWOOD,9984.0,Grants & allowances,General goods & services,0.9188
+9691,ISLEWORTH & SYON SCHOOL FOR BOYS,9825.0,Accommodation (housing),Education & sports,0.8748
+11985,HARVARD PARK PLAYGROUP,9642.6,Education & sports,General goods & services,0.8963
+12301,KIMBELL PIKE ARCHITECTS,9600.0,General goods & services,Professional services (consultants),0.8071
+11048,ACORN CARE & EDUCATION LTD,9591.53,General goods & services,Education & sports,0.8952
+11049,ACORN CARE & EDUCATION LTD,9591.53,General goods & services,Education & sports,0.8952
+32872,H CAROLAN CONSTRUCTION,9558.85,General goods & services,Construction industry suppliers (CIS),0.8823
+2445,THE DE LACEY DAY NURSERY SCHOOL,9550.0,Grants & allowances,General goods & services,0.8707
+9571,HEDGEWOOD SCHOOL - LB OF HILLINGDON,9546.86,General goods & services,Education & sports,0.8328
+24468,EVOLUTION PLAYGROUP,9545.25,Care providers,Education & sports,0.9801
+25659,Q+,9500.0,General goods & services,Education & sports,0.9198
+7648,Q+,9500.0,General goods & services,Education & sports,0.9198
+7647,Q+,9500.0,General goods & services,Education & sports,0.9198
+33862,Q+,9500.0,General goods & services,Education & sports,0.9198
+25658,Q+,9500.0,General goods & services,Education & sports,0.9198
+33863,Q+,9500.0,General goods & services,Education & sports,0.9198
+14930,LADYBIRD LANE DAY NURSERY,9334.42,Grants & allowances,Education & sports,0.8004
+28074,LADYBIRD LANE DAY NURSERY,9306.26,Grants & allowances,Education & sports,0.8004
+12296,KHALSA PRIMARY SCHOOL,9273.21,Grants & allowances,Education & sports,0.9208
+24661,H CAROLAN CONSTRUCTION,9232.21,General goods & services,Construction industry suppliers (CIS),0.8823
+33937,REDACTED PERSONAL DATA,9204.3,Education & sports,Grants & allowances,0.8148
+6481,FAIRYLAND NURSERY,9077.75,Grants & allowances,Education & sports,0.8079
+20388,LAMPTON LEISURE LIMITED,9060.0,Intercompany (council group),Grants & allowances,0.8418
+15102,NATIONWIDE ACCOMMODATION SERVICES LTD,9010.0,General goods & services,Accommodation (housing),0.985
+29301,STAR PLAYER LTD,9000.0,General goods & services,Education & sports,0.9286
+27362,ELLIOT AND PHELPS LIMITED,8983.8,Education & sports,General goods & services,0.8104
+11789,EVOLUTION PLAYGROUP,8976.0,Care providers,Education & sports,0.9801
+21124,THE LONDON ORATORY SCHOOL,8874.99,General goods & services,Education & sports,0.8222
+18651,STUDIO WEAVE LIMITED,8872.5,Utilities,Professional services (consultants),0.8786
+15866,STUDIO WEAVE LIMITED,8872.5,Utilities,Professional services (consultants),0.8786
+13202,STUDIO WEAVE LIMITED,8872.5,Utilities,Professional services (consultants),0.8786
+10336,PROACTIS LIMITED,8850.0,General goods & services,"ICT hardware, software & networks",0.9232
+9883,LEOLINE TRAVEL LIMITED,8845.2,General goods & services,Vehicles & transport,0.9287
+6287,COAT OF MANY COLOURS NURSERY,8814.97,Grants & allowances,Education & sports,0.8592
+9852,KINGSLEY ROAD CARS LTD,8741.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+24935,INTEGRATED SERVICES PROGRAMME,8708.96,General goods & services,Education & sports,0.8424
+31222,ORLEANS PARK SCHOOL,8649.04,Grants & allowances,Education & sports,0.8461
+4478,ORLEANS PARK SCHOOL,8649.04,Grants & allowances,Education & sports,0.8461
+17142,DYSART SCHOOL,8579.98,General goods & services,Education & sports,0.8467
+22964,PORTAKABIN LIMITED,8554.0,General goods & services,Vehicles & transport,0.9239
+1908,PORTAKABIN LIMITED,8554.0,General goods & services,Vehicles & transport,0.9239
+1909,PORTAKABIN LIMITED,8554.0,General goods & services,Vehicles & transport,0.9239
+28631,PORTAKABIN LIMITED,8554.0,General goods & services,Vehicles & transport,0.9239
+25210,LONDON BUS SERVICES LTD,8497.46,Traffic management & highways,General goods & services,0.848
+24471,EVOLUTION PLAYGROUP,8454.23,Care providers,Education & sports,0.9801
+34409,THE DE LACEY DAY NURSERY SCHOOL,8385.3,Grants & allowances,General goods & services,0.8468
+33953,REDACTED PERSONAL DATA,8385.3,Education & sports,Grants & allowances,0.8576
+9166,COAT OF MANY COLOURS NURSERY,8385.3,Grants & allowances,Education & sports,0.8592
+10382,REDACTED PERSONAL DATA,8385.3,Education & sports,Grants & allowances,0.8576
+33391,MARISH ACADEMY TRUST,8333.33,Grants & allowances,Education & sports,0.9603
+15024,MARISH ACADEMY TRUST,8333.33,Grants & allowances,Education & sports,0.9603
+28203,MARISH ACADEMY TRUST,8333.33,Grants & allowances,Education & sports,0.9603
+7214,MARISH ACADEMY TRUST,8333.33,Grants & allowances,Education & sports,0.9603
+14366,EVOLUTION PLAYGROUP,8327.7,Care providers,Education & sports,0.9801
+4242,MALDEN OAKS,8320.0,Local authorities / central government,Education & sports,0.8724
+34529,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,8275.2,Grants & allowances,Education & sports,0.8425
+14929,LADYBIRD LANE DAY NURSERY,8202.42,Grants & allowances,Education & sports,0.8004
+32890,HARVARD PARK PLAYGROUP,8181.6,Education & sports,General goods & services,0.8963
+27392,EVOLUTION PLAYGROUP,8112.0,Care providers,Education & sports,0.9801
+21638,ALPHATRACK SYSTEMS LTD,8105.5,Construction industry suppliers (CIS),General goods & services,0.8157
+9229,DE LACEY ELMWOOD,8064.0,Grants & allowances,General goods & services,0.9188
+21203,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+31773,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+10891,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+2550,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+23486,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+29522,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+31772,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+18858,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+13417,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+31774,TT BUILDING CONSULTANCY LIMITED,8052.69,General goods & services,Professional services (consultants),0.9052
+13136,SMALL STEPS DAY NURSERY & PRE-SCHOOL,8035.5,Grants & allowances,Education & sports,0.8749
+36869,SPRINGHALLOW SCHOOL,8029.0,Grants & allowances,Education & sports,0.8937
+36868,SPRINGHALLOW SCHOOL,8029.0,Grants & allowances,Education & sports,0.8937
+36870,SPRINGHALLOW SCHOOL,8029.0,Grants & allowances,Education & sports,0.8937
+3655,H CAROLAN CONSTRUCTION,8000.0,General goods & services,Construction industry suppliers (CIS),0.8539
+33329,LINDEN LODGE SCHOOL,7999.0,General goods & services,Education & sports,0.9503
+33936,REDACTED PERSONAL DATA,7986.0,Education & sports,Grants & allowances,0.8148
+32891,HARVARD PARK PLAYGROUP,7977.06,Education & sports,General goods & services,0.8963
+36589,REDACTED PERSONAL DATA,7975.0,Education & sports,Grants & allowances,0.8148
+14369,EVOLUTION PLAYGROUP,7920.0,Care providers,Education & sports,0.9801
+7731,REDACTED PERSONAL DATA,7905.23,General goods & services,Grants & allowances,0.8449
+34412,THE DE LACEY DAY NURSERY SCHOOL,7904.0,Grants & allowances,General goods & services,0.8468
+15848,STANNAH LIFTS LTD,7793.0,Construction industry suppliers (CIS),General goods & services,0.8328
+12319,LADYBIRD LANE DAY NURSERY,7786.35,Grants & allowances,Education & sports,0.8004
+2444,THE DE LACEY DAY NURSERY SCHOOL,7786.35,Grants & allowances,General goods & services,0.8468
+36885,STANNAH LIFTS LTD,7769.0,Construction industry suppliers (CIS),General goods & services,0.8328
+21170,THE WILLOWS SCHOOL ACADEMY TRUST,7740.0,Grants & allowances,Education & sports,0.8593
+8801,ALPHATRACK SYSTEMS LTD,7633.0,Construction industry suppliers (CIS),General goods & services,0.8157
+27412,FAIRYLAND NURSERY,7597.2,Grants & allowances,Education & sports,0.8079
+922,HARVARD PARK PLAYGROUP,7597.2,Education & sports,General goods & services,0.8963
+1388,LADYBIRD LANE DAY NURSERY,7597.2,Grants & allowances,Education & sports,0.8004
+29395,THE DE LACEY DAY NURSERY SCHOOL,7597.2,Grants & allowances,General goods & services,0.8468
+23099,REDACTED PERSONAL DATA,7597.02,Education & sports,Grants & allowances,0.8148
+27410,FAIRYLAND NURSERY,7488.0,Grants & allowances,Education & sports,0.8079
+661,COAT OF MANY COLOURS NURSERY,7488.0,Grants & allowances,Education & sports,0.8592
+1389,LADYBIRD LANE DAY NURSERY,7488.0,Grants & allowances,Education & sports,0.8004
+14931,LADYBIRD LANE DAY NURSERY,7454.82,Grants & allowances,Education & sports,0.8004
+12159,HSL COMPLIANCE LTD,7426.07,Construction industry suppliers (CIS),General goods & services,0.8419
+22495,HSL COMPLIANCE LTD,7413.71,Construction industry suppliers (CIS),General goods & services,0.8419
+11790,EVOLUTION PLAYGROUP,7392.0,Care providers,Education & sports,0.9801
+14371,EVOLUTION PLAYGROUP,7392.0,Care providers,Education & sports,0.9801
+20384,LAMPTON LEISURE LIMITED,7360.0,Intercompany (council group),Grants & allowances,0.8418
+34329,STANNAH LIFTS LTD,7276.0,Construction industry suppliers (CIS),General goods & services,0.8328
+26088,STANNAH LIFTS LTD,7270.0,Construction industry suppliers (CIS),General goods & services,0.8328
+242,ALPHATRACK SYSTEMS LTD,7247.5,Construction industry suppliers (CIS),General goods & services,0.8157
+33264,LADYBIRD LANE DAY NURSERY,7233.9,Grants & allowances,Education & sports,0.8004
+14209,COAT OF MANY COLOURS NURSERY,7231.95,Grants & allowances,Education & sports,0.8592
+19935,H CAROLAN CONSTRUCTION,7210.69,General goods & services,Construction industry suppliers (CIS),0.8823
+11733,DYSART SCHOOL,7194.23,General goods & services,Education & sports,0.8467
+9336,EVOLUTION PLAYGROUP,7158.9,Care providers,Education & sports,0.9801
+9451,HARVARD PARK PLAYGROUP,7158.9,Education & sports,General goods & services,0.8963
+807,FIRNTEC LTD,7058.1,General goods & services,Professional services (consultants),0.8468
+27900,JONES LANG LASALLE LIMITED,7050.0,Utilities,Professional services (consultants),0.816
+13968,BRENTFORD SCHOOL FOR GIRLS (ACADEMY),7047.0,General goods & services,Education & sports,0.8781
+10702,STANNAH LIFTS LTD,7040.0,Construction industry suppliers (CIS),General goods & services,0.8328
+23342,STANNAH LIFTS LTD,6971.0,Construction industry suppliers (CIS),General goods & services,0.8328
+27609,HARVARD PARK PLAYGROUP,6964.1,Education & sports,General goods & services,0.8963
+16058,TUDOR PARK EDUCATION TRUST,6876.0,General goods & services,Education & sports,0.9587
+11986,HARVARD PARK PLAYGROUP,6864.0,Education & sports,General goods & services,0.8963
+33263,LADYBIRD LANE DAY NURSERY,6851.04,Grants & allowances,Education & sports,0.8004
+11470,CARLISLE & HAMPTON HILL FEDERATION,6831.0,General goods & services,Education & sports,0.8678
+26092,STANNAH LIFTS LTD,6803.0,Construction industry suppliers (CIS),General goods & services,0.8328
+12414,MAX FORDHAM LLP,6800.0,Accommodation (housing),Professional services (consultants),0.81
+1501,MAX FORDHAM LLP,6800.0,Accommodation (housing),Professional services (consultants),0.81
+15841,STANNAH LIFTS LTD,6772.0,Construction industry suppliers (CIS),General goods & services,0.8328
+15442,REDACTED PERSONAL DATA,6753.45,Education & sports,Grants & allowances,0.8148
+3746,HEATHFIELD HOUSE SCHOOL,6744.0,General goods & services,Education & sports,0.8991
+9570,HEATHFIELD HOUSE SCHOOL,6744.0,General goods & services,Education & sports,0.8991
+9452,HARVARD PARK PLAYGROUP,6720.0,Education & sports,General goods & services,0.8963
+15849,STANNAH LIFTS LTD,6713.0,Construction industry suppliers (CIS),General goods & services,0.8328
+792,EVOLUTION PLAYGROUP,6647.55,Care providers,Education & sports,0.9801
+27393,EVOLUTION PLAYGROUP,6647.55,Care providers,Education & sports,0.9801
+15459,REDACTED PERSONAL DATA,6588.45,Education & sports,Grants & allowances,0.8576
+26087,STANNAH LIFTS LTD,6577.0,Construction industry suppliers (CIS),General goods & services,0.8328
+22204,GATENBYSANDERSON LIMITED,6435.0,General goods & services,Professional services (consultants),0.8216
+27507,GATENBYSANDERSON LIMITED,6435.0,General goods & services,Professional services (consultants),0.8216
+14549,HARVARD PARK PLAYGROUP,6428.4,Education & sports,General goods & services,0.8963
+11788,EVOLUTION PLAYGROUP,6428.4,Care providers,Education & sports,0.9801
+14368,EVOLUTION PLAYGROUP,6428.4,Care providers,Education & sports,0.9801
+31631,SPRINGHALLOW SCHOOL,6423.0,Grants & allowances,Education & sports,0.8937
+31630,SPRINGHALLOW SCHOOL,6423.0,Grants & allowances,Education & sports,0.8937
+31629,SPRINGHALLOW SCHOOL,6423.0,Grants & allowances,Education & sports,0.8937
+7802,REDACTED PERSONAL DATA,6422.97,Foster carers,Grants & allowances,0.8449
+16879,CALFORD SEADEN LLP,6400.0,General goods & services,Professional services (consultants),0.8125
+26086,STANNAH LIFTS LTD,6391.0,Construction industry suppliers (CIS),General goods & services,0.8328
+34328,STANNAH LIFTS LTD,6349.0,Construction industry suppliers (CIS),General goods & services,0.8328
+7730,REDACTED PERSONAL DATA,6338.08,General goods & services,Grants & allowances,0.8449
+9013,CALFORD SEADEN LLP,6332.74,General goods & services,Professional services (consultants),0.8125
+2384,STANNAH LIFTS LTD,6303.0,Construction industry suppliers (CIS),General goods & services,0.8328
+13359,THE SALVATION ARMY,6272.13,"Social, community care & healthcare",Public health,0.8331
+15479,REDACTED PERSONAL DATA,6253.08,General goods & services,Grants & allowances,0.8449
+23100,REDACTED PERSONAL DATA,6240.0,Education & sports,Grants & allowances,0.8148
+27237,COAT OF MANY COLOURS NURSERY,6240.0,Grants & allowances,Education & sports,0.8592
+29299,STANNAH LIFTS LTD,6160.0,Construction industry suppliers (CIS),General goods & services,0.8328
+32759,EVOLUTION PLAYGROUP,6136.2,Care providers,Education & sports,0.9801
+32614,COAT OF MANY COLOURS NURSERY,6136.2,Grants & allowances,Education & sports,0.8592
+28049,KINGSLEY ROAD CARS LTD,6034.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+23921,ATLAS FM LIMITED,6032.35,Environmental services,General goods & services,0.8385
+16673,ATLAS FM LIMITED,6032.35,Environmental services,General goods & services,0.8385
+13864,ATLAS FM LIMITED,6032.35,Environmental services,General goods & services,0.8385
+20402,LEARNING TREE CHILDCARE LTD,6000.0,Care providers,Education & sports,0.8219
+36806,SERENITY SCHOOL COULSDON,-6000.0,Grants & allowances,Education & sports,0.8501
+36804,SERENITY SCHOOL COULSDON,-6000.0,Grants & allowances,Education & sports,0.8501
+28099,LEARNING TREE CHILDCARE LTD,6000.0,Care providers,Education & sports,0.8219
+29300,STAR PLAYER LTD,6000.0,General goods & services,Education & sports,0.9286
+36072,LEARNING TREE CHILDCARE LTD,6000.0,Care providers,Education & sports,0.8219
+34006,REDACTED PERSONAL DATA,5990.1,General goods & services,Grants & allowances,0.8148
+16448,AJS LTD,5860.14,General goods & services,Construction industry suppliers (CIS),0.8047
+28836,REDACTED PERSONAL DATA,5837.77,General goods & services,Grants & allowances,0.8449
+14551,HARVARD PARK PLAYGROUP,5808.0,Education & sports,General goods & services,0.8963
+19267,ALPHATRACK SYSTEMS LTD,5795.0,Construction industry suppliers (CIS),General goods & services,0.8157
+25835,REDACTED PERSONAL DATA,5691.29,General goods & services,Grants & allowances,0.8557
+7676,REDACTED PERSONAL DATA,5689.54,General goods & services,Grants & allowances,0.8557
+23349,STICKY FACES,5687.0,Grants & allowances,Education & sports,0.8901
+28019,KHOSLA HOUSE LIMITED,5666.67,Education & sports,General goods & services,0.8628
+27833,HSL COMPLIANCE LTD,5634.25,Construction industry suppliers (CIS),General goods & services,0.8419
+23379,TECHNICAL ASSET MANAGEMENT,5605.4,"Facilities management, mail & clothing",General goods & services,0.845
+7886,REDACTED PERSONAL DATA,5602.8,General goods & services,Grants & allowances,0.8148
+9335,EVOLUTION PLAYGROUP,5590.2,Care providers,Education & sports,0.9801
+33969,REDACTED PERSONAL DATA,5590.2,General goods & services,Grants & allowances,0.8449
+16787,BLAKEDOWN LANDSCAPES (SE) LTD,5574.53,Construction industry suppliers (CIS),Professional services (consultants),0.8227
+24908,HSL COMPLIANCE LTD,5557.66,Construction industry suppliers (CIS),General goods & services,0.8419
+21037,ST NICHOLAS CHURCH OF ENGLAND PRIMARY SCHOOL,5553.0,General goods & services,Education & sports,0.8441
+36053,LAMPTON LEISURE LIMITED,5520.0,Intercompany (council group),Grants & allowances,0.8418
+20387,LAMPTON LEISURE LIMITED,5520.0,Intercompany (council group),Grants & allowances,0.8418
+20385,LAMPTON LEISURE LIMITED,5520.0,Intercompany (council group),Grants & allowances,0.8418
+21718,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+32270,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+35087,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+30068,ATLAS FM LIMITED,5509.39,Environmental services,General goods & services,0.8385
+8873,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+19403,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+336,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+21715,ATLAS FM LIMITED,5509.39,Professional services (consultants),General goods & services,0.8385
+11289,ATLAS FM LIMITED,5509.39,Environmental services,General goods & services,0.8385
+21713,ATAMIS LTD,5481.35,General goods & services,"ICT hardware, software & networks",0.9028
+36590,REDACTED PERSONAL DATA,5400.0,Education & sports,Grants & allowances,0.8576
+35780,HEATHFIELD HOUSE SCHOOL,5378.0,General goods & services,Education & sports,0.8991
+34530,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,5376.0,Grants & allowances,Education & sports,0.8425
+9339,EVOLUTION PLAYGROUP,5376.0,Care providers,Education & sports,0.9801
+9862,LADYBIRD LANE DAY NURSERY,5376.0,Grants & allowances,Education & sports,0.8004
+34039,REDACTED PERSONAL DATA,5331.19,General goods & services,Grants & allowances,0.8425
+5771,ALPHABET DAYCARE,5302.65,Grants & allowances,Education & sports,0.8117
+25211,LONDON BUS SERVICES LTD,5300.0,Traffic management & highways,General goods & services,0.848
+32471,CARDINUS RISK MANAGEMENT LIMITED,5287.5,Human resources,"ICT hardware, software & networks",0.8157
+14211,COAT OF MANY COLOURS NURSERY,5280.0,Grants & allowances,Education & sports,0.8592
+17143,DYSART SCHOOL,5275.77,General goods & services,Education & sports,0.8467
+25832,REDACTED PERSONAL DATA,5268.9,Education & sports,Grants & allowances,0.8576
+25826,REDACTED PERSONAL DATA,5268.9,Education & sports,Grants & allowances,0.8148
+7737,REDACTED PERSONAL DATA,5268.9,Education & sports,Grants & allowances,0.8576
+7868,REDACTED PERSONAL DATA,5268.9,General goods & services,Grants & allowances,0.8576
+25823,REDACTED PERSONAL DATA,5268.9,General goods & services,Grants & allowances,0.8576
+24467,EVOLUTION PLAYGROUP,5268.9,Care providers,Education & sports,0.9801
+8399,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,5268.9,Grants & allowances,Education & sports,0.8425
+24320,COAT OF MANY COLOURS NURSERY,5268.9,Grants & allowances,Education & sports,0.8592
+24466,EVOLUTION PLAYGROUP,5268.9,Care providers,Education & sports,0.9801
+6460,EVOLUTION PLAYGROUP,5268.9,Care providers,Education & sports,0.9801
+24488,FAIRYLAND NURSERY,5268.9,Grants & allowances,Education & sports,0.8079
+34043,REDACTED PERSONAL DATA,5228.44,General goods & services,Grants & allowances,0.8576
+6482,FAIRYLAND NURSERY,5202.6,Grants & allowances,Education & sports,0.8079
+24490,FAIRYLAND NURSERY,5202.6,Grants & allowances,Education & sports,0.8079
+24699,HARVARD PARK PLAYGROUP,5202.6,Education & sports,General goods & services,0.8963
+7806,REDACTED PERSONAL DATA,5202.6,Education & sports,Grants & allowances,0.8148
+23391,THE DE LACEY DAY NURSERY SCHOOL,5190.9,Grants & allowances,General goods & services,0.8468
+28843,REDACTED PERSONAL DATA,5190.9,Education & sports,Grants & allowances,0.8576
+2017,REDACTED PERSONAL DATA,5190.9,Education & sports,Grants & allowances,0.8576
+662,COAT OF MANY COLOURS NURSERY,5190.9,Grants & allowances,Education & sports,0.8592
+33954,REDACTED PERSONAL DATA,5113.5,Education & sports,Grants & allowances,0.8576
+10383,REDACTED PERSONAL DATA,5113.5,Education & sports,Grants & allowances,0.8576
+10376,REDACTED PERSONAL DATA,5113.5,General goods & services,Grants & allowances,0.8576
+9337,EVOLUTION PLAYGROUP,5113.5,Care providers,Education & sports,0.9801
+32760,EVOLUTION PLAYGROUP,5113.5,Care providers,Education & sports,0.9801
+15916,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+29364,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+18708,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+23377,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+21099,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+10741,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+34393,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+36963,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+26190,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+13252,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+31687,TECHNICAL ASSET MANAGEMENT,5112.1,"Facilities management, mail & clothing",General goods & services,0.845
+32892,HARVARD PARK PLAYGROUP,5108.32,Education & sports,General goods & services,0.8963
+20479,MAX FORDHAM LLP,5100.0,Accommodation (housing),Professional services (consultants),0.81
+9613,HOUNSLOW HIGHWAYS SERVICES LTD,5060.58,Financial services,Professional services (consultants),0.8618
+749,DYSART SCHOOL,5013.23,General goods & services,Education & sports,0.8467
+20676,PENNA PLC,5000.0,"Advertising, events & publicity",General goods & services,0.8021
+20675,PENNA PLC,5000.0,"Advertising, events & publicity",General goods & services,0.8021
+26371,TT BUILDING CONSULTANCY LIMITED,5000.0,General goods & services,Professional services (consultants),0.9052
+20677,PENNA PLC,5000.0,"Advertising, events & publicity",General goods & services,0.8021
+35882,HSL COMPLIANCE LTD,4997.01,Construction industry suppliers (CIS),General goods & services,0.8419
+702,DE LACEY ELMWOOD,4992.0,Grants & allowances,General goods & services,0.9188
+27389,EVOLUTION PLAYGROUP,4992.0,Care providers,Education & sports,0.9801
+27829,HSL COMPLIANCE LTD,4983.32,Construction industry suppliers (CIS),General goods & services,0.8419
+6938,JONES LANG LASALLE LIMITED,4975.0,Utilities,Professional services (consultants),0.816
+35884,HSL COMPLIANCE LTD,4963.7,Construction industry suppliers (CIS),General goods & services,0.8419
+25892,REDACTED PERSONAL DATA,4963.53,General goods & services,Grants & allowances,0.8425
+17219,FARANI TAYLOR SOLICITORS,4908.5,Legal (excl. counsel fees),General goods & services,0.8091
+1961,REDACTED PERSONAL DATA,4886.73,Grants & allowances,Foster carers,0.8401
+7808,REDACTED PERSONAL DATA,4883.36,General goods & services,Grants & allowances,0.8425
+21844,BRENTFORD SCHOOL FOR GIRLS (ACADEMY),4859.17,General goods & services,Education & sports,0.8426
+11787,EVOLUTION PLAYGROUP,4821.3,Care providers,Education & sports,0.9801
+15443,REDACTED PERSONAL DATA,4821.3,Education & sports,Grants & allowances,0.8148
+15817,SPRINGHALLOW SCHOOL,4817.0,Grants & allowances,Education & sports,0.8937
+15818,SPRINGHALLOW SCHOOL,4817.0,Grants & allowances,Education & sports,0.8937
+15816,SPRINGHALLOW SCHOOL,4817.0,Grants & allowances,Education & sports,0.8937
+18026,NATIONAL FOSTERING AGENCY,4800.0,General goods & services,Vehicles & transport,0.8771
+35881,HSL COMPLIANCE LTD,4765.81,Construction industry suppliers (CIS),General goods & services,0.8419
+2423,TECHNICAL ASSET MANAGEMENT,4755.4,"Facilities management, mail & clothing",General goods & services,0.845
+14210,COAT OF MANY COLOURS NURSERY,4752.0,Grants & allowances,Education & sports,0.8592
+24643,GREATER LONDON AUTHORITY,4750.0,Local authorities / central government,General goods & services,0.8251
+9338,EVOLUTION PLAYGROUP,4704.0,Care providers,Education & sports,0.9801
+20678,PENNA PLC,4702.5,"Advertising, events & publicity",General goods & services,0.8021
+36061,LAMPTON SCHOOL ACADEMY TRUST,4678.68,Grants & allowances,Education & sports,0.8474
+17575,HSL COMPLIANCE LTD,4663.17,Construction industry suppliers (CIS),General goods & services,0.8419
+12922,REDACTED PERSONAL DATA,4634.29,General goods & services,Grants & allowances,0.8425
+32763,EVOLUTION PLAYGROUP,4608.0,Care providers,Education & sports,0.9801
+15446,REDACTED PERSONAL DATA,4535.62,Foster carers,Grants & allowances,0.8449
+12171,HSL COMPLIANCE LTD,4528.39,Construction industry suppliers (CIS),General goods & services,0.8419
+1404,LAMPTON SCHOOL ACADEMY TRUST,4522.0,Grants & allowances,Education & sports,0.8474
+32617,COAT OF MANY COLOURS NURSERY,4512.0,Grants & allowances,Education & sports,0.8592
+28985,REDACTED PERSONAL DATA,4498.95,General goods & services,Grants & allowances,0.8148
+35611,GARDENER SCHOOLS GROUP LIMITED,4487.0,General goods & services,Education & sports,0.9626
+19928,GREENACRES DAY NURSERY SCHOOL LTD,4466.0,General goods & services,Education & sports,0.9045
+23919,ATLAS FM LIMITED,4441.97,Environmental services,General goods & services,0.8385
+26113,STUDIO WEAVE LIMITED,4436.25,Utilities,Professional services (consultants),0.8786
+8195,STUDIO WEAVE LIMITED,4436.25,Utilities,Professional services (consultants),0.8451
+8196,STUDIO WEAVE LIMITED,4436.25,Utilities,Professional services (consultants),0.8451
+34322,ST NICHOLAS CHURCH OF ENGLAND PRIMARY SCHOOL,4428.0,General goods & services,Education & sports,0.8441
+505,CALFORD SEADEN LLP,4421.0,General goods & services,Professional services (consultants),0.8125
+36054,LAMPTON LEISURE LIMITED,4416.0,Intercompany (council group),Grants & allowances,0.8418
+28093,LAVAT CONSULTING LTD,4400.0,Education & sports,Professional services (consultants),0.803
+15434,REDACTED PERSONAL DATA,4392.3,General goods & services,Grants & allowances,0.8576
+11785,EVOLUTION PLAYGROUP,4392.3,Care providers,Education & sports,0.9801
+3295,COAT OF MANY COLOURS NURSERY,4392.3,Grants & allowances,Education & sports,0.8592
+14364,EVOLUTION PLAYGROUP,4392.3,Care providers,Education & sports,0.9801
+12965,REDACTED PERSONAL DATA,4392.3,General goods & services,Grants & allowances,0.8576
+15932,THE DE LACEY DAY NURSERY SCHOOL,4383.0,Grants & allowances,General goods & services,0.8468
+20163,HSL COMPLIANCE LTD,4359.06,Construction industry suppliers (CIS),General goods & services,0.8419
+26091,STANNAH LIFTS LTD,4303.0,Construction industry suppliers (CIS),General goods & services,0.8328
+30546,GATENBYSANDERSON LIMITED,4290.0,General goods & services,Professional services (consultants),0.8216
+15561,REDACTED PERSONAL DATA,4287.25,General goods & services,Grants & allowances,0.8425
+27825,HSL COMPLIANCE LTD,4259.02,Construction industry suppliers (CIS),General goods & services,0.8419
+27607,HARVARD PARK PLAYGROUP,4243.2,Education & sports,General goods & services,0.8963
+2385,STANNAH LIFTS LTD,4238.0,Construction industry suppliers (CIS),General goods & services,0.8328
+14552,HARVARD PARK PLAYGROUP,4224.0,Education & sports,General goods & services,0.8963
+32764,EVOLUTION PLAYGROUP,4224.0,Care providers,Education & sports,0.9801
+28986,REDACTED PERSONAL DATA,4203.0,General goods & services,Grants & allowances,0.8148
+9334,EVOLUTION PLAYGROUP,4192.65,Care providers,Education & sports,0.9801
+13862,ATLAS FM LIMITED,4183.68,Environmental services,General goods & services,0.8385
+12388,LONDON COUNCILS,4159.0,General goods & services,Public health,0.8412
+11903,GATENBYSANDERSON LIMITED,4111.25,General goods & services,Professional services (consultants),0.8216
+13172,ST PHILIP'S SCHOOL,4102.31,General goods & services,Education & sports,0.862
+9228,DE LACEY ELMWOOD,4090.8,Grants & allowances,General goods & services,0.9188
+7831,REDACTED PERSONAL DATA,4046.0,Vehicles & transport,Grants & allowances,0.8719
+748,DULUX DECORATOR CENTRE,4031.77,Accommodation (housing),General goods & services,0.883
+33970,REDACTED PERSONAL DATA,3997.3,General goods & services,Grants & allowances,0.8449
+12087,HEATHFIELD HOUSE SCHOOL,3967.0,General goods & services,Education & sports,0.8991
+16616,ANGLE ADAPTIONS LTD,3950.0,"Social, community care & healthcare",General goods & services,0.8149
+4181,LEARNING TREE CHILDCARE LTD,3900.0,Care providers,Education & sports,0.8219
+795,EVOLUTION PLAYGROUP,3893.18,Care providers,Education & sports,0.9801
+33035,HSL COMPLIANCE LTD,3881.16,Construction industry suppliers (CIS),General goods & services,0.8419
+7844,REDACTED PERSONAL DATA,3818.1,Education & sports,Grants & allowances,0.8576
+23341,STANNAH LIFTS LTD,3815.0,Construction industry suppliers (CIS),General goods & services,0.8328
+15478,REDACTED PERSONAL DATA,3806.66,General goods & services,Grants & allowances,0.8449
+338,ATLAS FM LIMITED,3806.02,Professional services (consultants),General goods & services,0.8385
+37092,TROWERS & HAMLINS LLP,3805.0,Legal (excl. counsel fees),Professional services (consultants),0.8359
+9437,H CAROLAN CONSTRUCTION,3800.0,General goods & services,Construction industry suppliers (CIS),0.8823
+701,DE LACEY ELMWOOD,3798.6,Grants & allowances,General goods & services,0.9188
+2057,REDACTED PERSONAL DATA,3798.6,Education & sports,Grants & allowances,0.8148
+21884,CALFORD SEADEN LLP,3784.0,General goods & services,Professional services (consultants),0.8125
+26089,STANNAH LIFTS LTD,3761.0,Construction industry suppliers (CIS),General goods & services,0.8328
+24588,GATENBYSANDERSON LIMITED,3753.75,General goods & services,Professional services (consultants),0.8216
+22551,JONES LANG LASALLE LIMITED,3750.0,Utilities,Professional services (consultants),0.816
+27236,COAT OF MANY COLOURS NURSERY,3744.0,Grants & allowances,Education & sports,0.8592
+2058,REDACTED PERSONAL DATA,3744.0,Education & sports,Grants & allowances,0.8148
+28118,LIBERATA UK LTD,3726.53,General goods & services,"ICT hardware, software & networks",0.887
+36221,NATIONWIDE ACCOMMODATION SERVICES LTD,3720.0,General goods & services,Accommodation (housing),0.9432
+1608,NATIONWIDE ACCOMMODATION SERVICES LTD,3720.0,General goods & services,Accommodation (housing),0.9432
+22778,NATIONWIDE ACCOMMODATION SERVICES LTD,3720.0,General goods & services,Accommodation (housing),0.9432
+10091,NATIONWIDE ACCOMMODATION SERVICES LTD,3720.0,General goods & services,Accommodation (housing),0.9432
+28908,REDACTED PERSONAL DATA,3700.22,Foster carers,Grants & allowances,0.8449
+13254,TECHNICAL ASSET MANAGEMENT,3689.9,"Facilities management, mail & clothing",General goods & services,0.845
+33094,JONES LANG LASALLE LIMITED,3675.0,Utilities,Professional services (consultants),0.816
+809,FIRNTEC LTD,3670.22,General goods & services,Professional services (consultants),0.8468
+808,FIRNTEC LTD,3670.22,General goods & services,Professional services (consultants),0.8468
+12221,JONES LANG LASALLE LIMITED,3612.5,Utilities,Professional services (consultants),0.816
+20526,NATIONWIDE ACCOMMODATION SERVICES LTD,3600.0,General goods & services,Accommodation (housing),0.9432
+26057,SPRING GROVE MEDICAL PRACTICE,3600.0,Professional services (consultants),Public health,0.8367
+33547,NATIONWIDE ACCOMMODATION SERVICES LTD,3600.0,General goods & services,Accommodation (housing),0.9432
+28320,NATIONWIDE ACCOMMODATION SERVICES LTD,3600.0,General goods & services,Accommodation (housing),0.9432
+37114,UNITY RECRUITMENT LTD,3598.2,Human resources,Agency staff,0.8954
+3745,HEATHFIELD HOUSE SCHOOL,3578.83,General goods & services,Education & sports,0.8991
+9569,HEATHFIELD HOUSE SCHOOL,3578.0,General goods & services,Education & sports,0.8991
+14478,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+32838,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11907,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11908,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11910,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+19900,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+19901,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+35612,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+32836,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11904,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+24593,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11905,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+14473,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+17312,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+17315,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+14476,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11913,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+24590,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11915,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+22209,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+17307,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+22211,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+19896,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+19897,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+27505,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+22205,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+874,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+876,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+875,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+32839,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+30545,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+11902,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+30541,GATENBYSANDERSON LIMITED,3575.0,General goods & services,Professional services (consultants),0.8216
+8138,ST PHILIP'S SCHOOL,3555.33,General goods & services,Education & sports,0.862
+15842,STANNAH LIFTS LTD,3544.0,Construction industry suppliers (CIS),General goods & services,0.8328
+22636,LAMPTON SCHOOL ACADEMY TRUST,3470.83,Grants & allowances,Education & sports,0.9261
+36424,PENNA PLC,3465.0,"Advertising, events & publicity",General goods & services,0.8021
+36425,PENNA PLC,3465.0,"Advertising, events & publicity",General goods & services,0.8021
+11261,ASCENTIS,3461.0,Voluntary organisations,General goods & services,0.8439
+32616,COAT OF MANY COLOURS NURSERY,3456.0,Grants & allowances,Education & sports,0.8592
+26370,TT BUILDING CONSULTANCY LIMITED,3453.07,General goods & services,Professional services (consultants),0.9052
+34330,STANNAH LIFTS LTD,3452.0,Construction industry suppliers (CIS),General goods & services,0.8328
+459,BURLINGTON HOUSE SCHOOL LTD,3431.54,General goods & services,Education & sports,0.9168
+6870,HSL COMPLIANCE LTD,3415.81,Construction industry suppliers (CIS),General goods & services,0.8419
+11916,GATENBYSANDERSON LIMITED,3402.0,General goods & services,Professional services (consultants),0.8216
+18028,NATIONWIDE ACCOMMODATION SERVICES LTD,3400.0,General goods & services,Accommodation (housing),0.9432
+30934,KEW HOUSE SCHOOL,3376.67,General goods & services,Education & sports,0.8042
+7052,KEW HOUSE SCHOOL,3376.67,General goods & services,Education & sports,0.8042
+14896,KEW HOUSE SCHOOL,3376.67,General goods & services,Education & sports,0.8042
+22588,KEW HOUSE SCHOOL,3368.67,General goods & services,Education & sports,0.8042
+14895,KEW HOUSE SCHOOL,3368.67,General goods & services,Education & sports,0.8042
+30932,KEW HOUSE SCHOOL,3368.67,General goods & services,Education & sports,0.8042
+7050,KEW HOUSE SCHOOL,3368.67,General goods & services,Education & sports,0.8042
+31088,NATIONWIDE ACCOMMODATION SERVICES LTD,3360.0,General goods & services,Accommodation (housing),0.9432
+10443,REDACTED PERSONAL DATA,3340.82,General goods & services,Grants & allowances,0.8425
+14471,GARDENER SCHOOLS GROUP LIMITED,3310.0,General goods & services,Education & sports,0.9626
+15845,STANNAH LIFTS LTD,3283.0,Construction industry suppliers (CIS),General goods & services,0.8328
+31636,STANNAH LIFTS LTD,3283.0,Construction industry suppliers (CIS),General goods & services,0.8328
+15847,STANNAH LIFTS LTD,3283.0,Construction industry suppliers (CIS),General goods & services,0.8328
+25404,NBF PARTNERSHIP,3269.0,Environmental services,Professional services (consultants),0.8063
+18629,ST NICHOLAS CHURCH OF ENGLAND PRIMARY SCHOOL,3267.0,General goods & services,Education & sports,0.8441
+2379,ST NICHOLAS CHURCH OF ENGLAND PRIMARY SCHOOL,3267.0,General goods & services,Education & sports,0.8441
+24662,H CAROLAN CONSTRUCTION,3244.25,General goods & services,Construction industry suppliers (CIS),0.8823
+16027,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,3214.2,Grants & allowances,Education & sports,0.8425
+14365,EVOLUTION PLAYGROUP,3214.2,Care providers,Education & sports,0.9801
+15794,SMALL STEPS DAY NURSERY & PRE-SCHOOL,3214.2,Grants & allowances,Education & sports,0.8749
+2594,VENN GROUP LIMITED,3200.0,General goods & services,"ICT hardware, software & networks",0.8387
+2597,VENN GROUP LIMITED,3200.0,General goods & services,"ICT hardware, software & networks",0.8387
+2596,VENN GROUP LIMITED,3200.0,General goods & services,"ICT hardware, software & networks",0.8387
+2595,VENN GROUP LIMITED,3200.0,General goods & services,"ICT hardware, software & networks",0.8387
+35610,GARDENER SCHOOLS GROUP LIMITED,3200.0,General goods & services,Education & sports,0.9626
+29298,STANNAH LIFTS LTD,3193.0,Construction industry suppliers (CIS),General goods & services,0.8328
+10704,STANNAH LIFTS LTD,3193.0,Construction industry suppliers (CIS),General goods & services,0.8328
+36887,STANNAH LIFTS LTD,3193.0,Construction industry suppliers (CIS),General goods & services,0.8328
+21049,STANNAH LIFTS LTD,3193.0,Construction industry suppliers (CIS),General goods & services,0.8328
+21051,STANNAH LIFTS LTD,3193.0,Construction industry suppliers (CIS),General goods & services,0.8328
+17523,HOUNSLOW HIGHWAYS SERVICES LTD,3192.68,Financial services,Professional services (consultants),0.8618
+2380,ST PHILIP'S SCHOOL,3186.15,General goods & services,Education & sports,0.862
+7096,LAMPTON SCHOOL ACADEMY TRUST,3181.0,Grants & allowances,Education & sports,0.9375
+14386,FAIRYLAND NURSERY,3168.0,Grants & allowances,Education & sports,0.8079
+7108,LEARNING TREE CHILDCARE LTD,3120.0,Care providers,Education & sports,0.8219
+21000,SHEPPERTON CARS LTD,3118.5,General goods & services,Vehicles & transport,0.9308
+23058,REDACTED PERSONAL DATA,3114.09,Vehicles & transport,Grants & allowances,0.8911
+19936,H CAROLAN CONSTRUCTION,3110.0,General goods & services,Construction industry suppliers (CIS),0.8823
+18029,NATIONWIDE ACCOMMODATION SERVICES LTD,3100.0,General goods & services,Accommodation (housing),0.9432
+33927,REDACTED PERSONAL DATA,3068.1,General goods & services,Grants & allowances,0.8576
+32761,EVOLUTION PLAYGROUP,3068.1,Care providers,Education & sports,0.9801
+10380,REDACTED PERSONAL DATA,3068.1,Education & sports,Grants & allowances,0.8148
+7139,LITTLE CHEFS ACADEMY LTD,3066.0,General goods & services,Education & sports,0.8653
+20404,LEOLINE TRAVEL LIMITED,3045.2,General goods & services,Vehicles & transport,0.9287
+7885,REDACTED PERSONAL DATA,3039.75,General goods & services,Grants & allowances,0.8148
+16769,BERRICK COMPUTING LTD,3010.0,Professional services (consultants),General goods & services,0.8311
+18630,ST PHILIP'S SCHOOL,3008.36,General goods & services,Education & sports,0.862
+22668,LINDEN LODGE SCHOOL,3000.0,General goods & services,Education & sports,0.8898
+1984,REDACTED PERSONAL DATA,2998.26,Vehicles & transport,Grants & allowances,0.8911
+29366,TECHNICAL ASSET MANAGEMENT,2986.1,"Facilities management, mail & clothing",General goods & services,0.845
+29367,TECHNICAL ASSET MANAGEMENT,2976.8,"Facilities management, mail & clothing",General goods & services,0.845
+19749,DR SAIMA LATIF LTD,2971.4,Professional services (consultants),General goods & services,0.8771
+5002,SMALL STEPS DAY NURSERY & PRE-SCHOOL,2970.0,Grants & allowances,Education & sports,0.8749
+18594,SMALL STEPS DAY NURSERY & PRE-SCHOOL,2970.0,Grants & allowances,Education & sports,0.8749
+36837,SMALL STEPS DAY NURSERY & PRE-SCHOOL,2970.0,Grants & allowances,Education & sports,0.8749
+31241,PENNA PLC,2965.0,"Advertising, events & publicity",General goods & services,0.8021
+37057,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,2961.91,Grants & allowances,Education & sports,0.8425
+10671,SNELLERS LTD,2961.0,Professional services (consultants),Accommodation (housing),0.9485
+5775,ALPHATRACK SYSTEMS LTD,2960.02,Construction industry suppliers (CIS),General goods & services,0.8157
+16487,AMBIENT PEOPLE LIMITED,2954.95,Local authorities / central government,General goods & services,0.8022
+16490,AMBIENT PEOPLE LIMITED,2954.95,Local authorities / central government,General goods & services,0.8022
+16489,AMBIENT PEOPLE LIMITED,2954.95,Local authorities / central government,General goods & services,0.8022
+16488,AMBIENT PEOPLE LIMITED,2954.95,Local authorities / central government,General goods & services,0.8022
+16492,AMBIENT PEOPLE LIMITED,2954.95,Local authorities / central government,General goods & services,0.8022
+16491,AMBIENT PEOPLE LIMITED,2954.95,Local authorities / central government,General goods & services,0.8022
+32215,ANGLE ADAPTIONS LTD,2950.0,"Social, community care & healthcare",General goods & services,0.8149
+13419,TUDOR PARK EDUCATION TRUST,2908.8,General goods & services,Education & sports,0.8807
+21607,AJS LTD,2901.6,General goods & services,Construction industry suppliers (CIS),0.8047
+7807,REDACTED PERSONAL DATA,2876.82,General goods & services,Grants & allowances,0.8425
+9868,LAMPTON SCHOOL ACADEMY TRUST,2875.0,Grants & allowances,Education & sports,0.9375
+2426,TECHNICAL ASSET MANAGEMENT,2868.33,"Facilities management, mail & clothing",General goods & services,0.845
+25891,REDACTED PERSONAL DATA,2865.47,General goods & services,Grants & allowances,0.8425
+25833,REDACTED PERSONAL DATA,2863.58,Education & sports,Grants & allowances,0.8576
+7738,REDACTED PERSONAL DATA,2863.57,Education & sports,Grants & allowances,0.8576
+27501,GATENBYSANDERSON LIMITED,2860.0,General goods & services,Professional services (consultants),0.8216
+32837,GATENBYSANDERSON LIMITED,2860.0,General goods & services,Professional services (consultants),0.8216
+22206,GATENBYSANDERSON LIMITED,2860.0,General goods & services,Professional services (consultants),0.8216
+17310,GATENBYSANDERSON LIMITED,2860.0,General goods & services,Professional services (consultants),0.8216
+877,GATENBYSANDERSON LIMITED,2860.0,General goods & services,Professional services (consultants),0.8216
+32975,HEATHFIELD HOUSE SCHOOL,2853.0,General goods & services,Education & sports,0.8991
+1971,REDACTED PERSONAL DATA,2848.95,General goods & services,Grants & allowances,0.8557
+28754,REDACTED PERSONAL DATA,2848.95,General goods & services,Grants & allowances,0.8557
+2141,REDACTED PERSONAL DATA,2848.95,General goods & services,Grants & allowances,0.8576
+27239,COAT OF MANY COLOURS NURSERY,2848.95,Grants & allowances,Education & sports,0.8592
+21885,CALFORD SEADEN LLP,2838.0,General goods & services,Professional services (consultants),0.8125
+15560,REDACTED PERSONAL DATA,2832.63,General goods & services,Grants & allowances,0.8425
+26922,BEACON PARTNERSHIP LLP,2800.0,Accommodation (housing),Professional services (consultants),0.8648
+6940,JONES LANG LASALLE LIMITED,2800.0,Utilities,Professional services (consultants),0.816
+10379,REDACTED PERSONAL DATA,2795.1,Education & sports,Grants & allowances,0.8148
+10375,REDACTED PERSONAL DATA,2795.1,General goods & services,Grants & allowances,0.8576
+33926,REDACTED PERSONAL DATA,2795.1,General goods & services,Grants & allowances,0.8576
+13264,THE DE LACEY DAY NURSERY SCHOOL,2795.1,Grants & allowances,General goods & services,0.8468
+28983,REDACTED PERSONAL DATA,2795.1,General goods & services,Grants & allowances,0.8148
+24463,EVOLUTION PLAYGROUP,2795.1,Care providers,Education & sports,0.9801
+9227,DE LACEY ELMWOOD,2795.1,Grants & allowances,General goods & services,0.9188
+31368,REDACTED PERSONAL DATA,2792.34,Professional services (consultants),Accommodation (housing),0.929
+26342,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,2775.9,Grants & allowances,Education & sports,0.8425
+31626,SPRING GROVE MEDICAL PRACTICE,2772.0,Professional services (consultants),Public health,0.8367
+24904,HSL COMPLIANCE LTD,2750.0,Construction industry suppliers (CIS),General goods & services,0.8419
+23047,REDACTED PERSONAL DATA,2747.2,Grants & allowances,Foster carers,0.8401
+30933,KEW HOUSE SCHOOL,2747.0,General goods & services,Education & sports,0.8042
+7051,KEW HOUSE SCHOOL,2747.0,General goods & services,Education & sports,0.8042
+22587,KEW HOUSE SCHOOL,2747.0,General goods & services,Education & sports,0.8042
+17793,KEW HOUSE SCHOOL,2747.0,General goods & services,Education & sports,0.8042
+28984,REDACTED PERSONAL DATA,2745.22,General goods & services,Grants & allowances,0.8148
+21609,AJS LTD,2716.0,General goods & services,Construction industry suppliers (CIS),0.8047
+22092,DULUX DECORATOR CENTRE,2693.45,Accommodation (housing),General goods & services,0.883
+27333,DULUX DECORATOR CENTRE,2683.17,Accommodation (housing),General goods & services,0.883
+33036,HSL COMPLIANCE LTD,2681.83,Construction industry suppliers (CIS),General goods & services,0.8419
+8287,THE DE LACEY DAY NURSERY SCHOOL,2640.0,Grants & allowances,General goods & services,0.8468
+25871,REDACTED PERSONAL DATA,2634.45,General goods & services,Grants & allowances,0.8148
+25607,PORTAKABIN LIMITED,2622.74,General goods & services,Vehicles & transport,0.9239
+7869,REDACTED PERSONAL DATA,2601.3,General goods & services,Grants & allowances,0.8576
+25872,REDACTED PERSONAL DATA,2601.3,General goods & services,Grants & allowances,0.8148
+25828,REDACTED PERSONAL DATA,2601.3,Education & sports,Grants & allowances,0.8148
+25824,REDACTED PERSONAL DATA,2601.3,General goods & services,Grants & allowances,0.8576
+32181,ALPHATRACK SYSTEMS LTD,2600.0,Construction industry suppliers (CIS),General goods & services,0.8157
+32182,ALPHATRACK SYSTEMS LTD,2600.0,Construction industry suppliers (CIS),General goods & services,0.8463
+8804,ALPHATRACK SYSTEMS LTD,2600.0,Construction industry suppliers (CIS),General goods & services,0.8157
+32188,ALPHATRACK SYSTEMS LTD,2600.0,Construction industry suppliers (CIS),General goods & services,0.8463
+28912,REDACTED PERSONAL DATA,2595.45,General goods & services,Grants & allowances,0.8425
+2059,REDACTED PERSONAL DATA,2595.45,General goods & services,Grants & allowances,0.8425
+15515,REDACTED PERSONAL DATA,2595.45,General goods & services,Grants & allowances,0.8148
+22157,EVOLUTION PLAYGROUP,2595.45,Care providers,Education & sports,0.9801
+28911,REDACTED PERSONAL DATA,2595.45,Education & sports,Grants & allowances,0.8148
+28905,REDACTED PERSONAL DATA,2595.45,General goods & services,Grants & allowances,0.8557
+28799,REDACTED PERSONAL DATA,2595.45,Education & sports,Grants & allowances,0.8576
+1995,REDACTED PERSONAL DATA,2595.45,Education & sports,Grants & allowances,0.8576
+36833,SMALL STEPS DAY NURSERY & PRE-SCHOOL,2569.89,Grants & allowances,Education & sports,0.8749
+5848,ASCENTIS,2554.0,Voluntary organisations,General goods & services,0.8439
+3878,HSL COMPLIANCE LTD,2553.56,Construction industry suppliers (CIS),General goods & services,0.8419
+28907,REDACTED PERSONAL DATA,2548.22,Foster carers,Grants & allowances,0.8449
+5872,AVANT HEALTHCARE SERVICES LTD,2536.65,General goods & services,"Social, community care & healthcare",0.8335
+15516,REDACTED PERSONAL DATA,2532.4,General goods & services,Grants & allowances,0.8148
+26502,WARD HADAWAY LLP,2528.0,Legal (excl. counsel fees),Professional services (consultants),0.8144
+21608,AJS LTD,2520.0,General goods & services,Construction industry suppliers (CIS),0.8047
+26038,SMALL STEPS DAY NURSERY & PRE-SCHOOL,2520.0,Grants & allowances,Education & sports,0.8749
+25556,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+25574,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+25558,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+25557,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+25555,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+4535,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+4534,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+24586,GARDINER & THEOBALD LLP,2500.0,General goods & services,Professional services (consultants),0.827
+20389,LAMPTON LEISURE LIMITED,2500.0,Intercompany (council group),Grants & allowances,0.8418
+25578,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+36055,LAMPTON LEISURE LIMITED,2500.0,Intercompany (council group),Grants & allowances,0.8418
+20390,LAMPTON LEISURE LIMITED,2500.0,Intercompany (council group),Grants & allowances,0.8418
+10309,PLAYDAYS DAY NURSERY/NURSEY SCHOOL LTD,2500.0,General goods & services,Education & sports,0.8368
+25554,PERMANENT FUTURES LTD,2500.0,Agency staff,Education & sports,0.8106
+2142,REDACTED PERSONAL DATA,2496.0,General goods & services,Grants & allowances,0.8576
+28954,REDACTED PERSONAL DATA,2496.0,General goods & services,Grants & allowances,0.8576
+27288,DE LACEY ELMWOOD,2496.0,Grants & allowances,General goods & services,0.9188
+11983,HARVARD PARK PLAYGROUP,2483.7,Education & sports,General goods & services,0.8963
+26168,SURREAL MEDICARE LIMITED,2460.0,General goods & services,Public health,0.8122
+11239,ANGLE ADAPTIONS LTD,2450.0,"Social, community care & healthcare",General goods & services,0.8149
+23850,ANGLE ADAPTIONS LTD,2450.0,"Social, community care & healthcare",General goods & services,0.8149
+12868,REDACTED PERSONAL DATA,2410.65,Education & sports,Grants & allowances,0.8576
+15460,REDACTED PERSONAL DATA,2410.65,Education & sports,Grants & allowances,0.8576
+31507,REDACTED PERSONAL DATA,2401.95,Grants & allowances,Accommodation (housing),0.9624
+35817,HOUNSLOW HIGHWAYS SERVICES LTD,2401.5,Financial services,Professional services (consultants),0.8618
+2598,VENN GROUP LIMITED,2400.0,General goods & services,"ICT hardware, software & networks",0.8387
+5874,AVANT HEALTHCARE SERVICES LTD,2381.85,General goods & services,"Social, community care & healthcare",0.8335
+5873,AVANT HEALTHCARE SERVICES LTD,2380.05,General goods & services,"Social, community care & healthcare",0.8335
+5871,AVANT HEALTHCARE SERVICES LTD,2371.05,General goods & services,"Social, community care & healthcare",0.8335
+26343,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,2361.6,Grants & allowances,Education & sports,0.8425
+12921,REDACTED PERSONAL DATA,2358.27,General goods & services,Grants & allowances,0.8425
+5870,AVANT HEALTHCARE SERVICES LTD,2357.1,General goods & services,"Social, community care & healthcare",0.8335
+36376,ONCE UPON A TIME NURSERY @FELTHAM HILL,2352.11,General goods & services,Education & sports,0.9143
+24464,EVOLUTION PLAYGROUP,2337.6,Care providers,Education & sports,0.9801
+27832,HSL COMPLIANCE LTD,2332.61,Construction industry suppliers (CIS),General goods & services,0.8419
+8808,ALPHATRACK SYSTEMS LTD,2320.05,Construction industry suppliers (CIS),General goods & services,0.8463
+14372,EVOLUTION PLAYGROUP,2304.0,Care providers,Education & sports,0.9801
+6011,BRENTFORD FC COMM.SPORTS TRUST,2275.0,Voluntary organisations,General goods & services,0.8759
+7143,LITTLE DREAMS DAY NURSERY,2275.0,Education & sports,General goods & services,0.9012
+21673,ANGLE ADAPTIONS LTD,2250.0,"Social, community care & healthcare",General goods & services,0.8149
+23941,AVANT HEALTHCARE SERVICES LTD,2248.88,General goods & services,"Social, community care & healthcare",0.8335
+10442,REDACTED PERSONAL DATA,2236.08,General goods & services,Grants & allowances,0.8425
+34555,TT BUILDING CONSULTANCY LIMITED,2233.12,General goods & services,Professional services (consultants),0.9052
+9281,DULUX DECORATOR CENTRE,2216.64,Accommodation (housing),General goods & services,0.883
+2964,AVANT HEALTHCARE SERVICES LTD,2211.15,General goods & services,"Social, community care & healthcare",0.8335
+21691,ASCENTIS,2208.0,Voluntary organisations,General goods & services,0.8439
+32765,EVOLUTION PLAYGROUP,2208.0,Care providers,Education & sports,0.9801
+9647,HSL COMPLIANCE LTD,2205.0,Construction industry suppliers (CIS),General goods & services,0.8419
+12917,REDACTED PERSONAL DATA,2196.15,Education & sports,Grants & allowances,0.8148
+12867,REDACTED PERSONAL DATA,2196.15,Education & sports,Grants & allowances,0.8576
+23940,AVANT HEALTHCARE SERVICES LTD,2192.69,General goods & services,"Social, community care & healthcare",0.8335
+26851,ASCENTIS,2168.0,Voluntary organisations,General goods & services,0.8439
+23938,AVANT HEALTHCARE SERVICES LTD,2167.53,General goods & services,"Social, community care & healthcare",0.8335
+26169,SURREAL MEDICARE LIMITED,2160.0,General goods & services,Public health,0.8122
+23942,AVANT HEALTHCARE SERVICES LTD,2146.98,General goods & services,"Social, community care & healthcare",0.8335
+35617,GATENBYSANDERSON LIMITED,2145.0,General goods & services,Professional services (consultants),0.8216
+25830,REDACTED PERSONAL DATA,2141.32,Foster carers,Grants & allowances,0.8449
+12506,NATWEST COMMERCIAL CARD DIVISION,2139.0,Financial services,Vehicles & transport,0.9136
+33903,REDACTED PERSONAL DATA,2133.24,General goods & services,Foster carers,0.8
+33880,REDACTED PERSONAL DATA,2133.24,Grants & allowances,Foster carers,0.8401
+5273,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,2115.65,Grants & allowances,Education & sports,0.8425
+15435,REDACTED PERSONAL DATA,2112.0,General goods & services,Grants & allowances,0.8576
+15445,REDACTED PERSONAL DATA,2112.0,Education & sports,Grants & allowances,0.8148
+14387,FAIRYLAND NURSERY,2112.0,Grants & allowances,Education & sports,0.8079
+12966,REDACTED PERSONAL DATA,2112.0,General goods & services,Grants & allowances,0.8576
+12086,HEATHFIELD HOUSE SCHOOL,2105.0,General goods & services,Education & sports,0.8991
+25998,SCCI ALPHATRACK LTD,2076.36,General goods & services,Construction industry suppliers (CIS),0.9129
+7801,REDACTED PERSONAL DATA,2067.03,Foster carers,Grants & allowances,0.8449
+25829,REDACTED PERSONAL DATA,2067.03,Foster carers,Grants & allowances,0.8449
+15742,SCCI ALPHATRACK LTD,2059.38,General goods & services,Construction industry suppliers (CIS),0.9129
+26345,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,2058.0,Grants & allowances,Education & sports,0.8425
+36972,THE DE LACEY DAY NURSERY SCHOOL,2047.2,Grants & allowances,General goods & services,0.8468
+34410,THE DE LACEY DAY NURSERY SCHOOL,2045.4,Grants & allowances,General goods & services,0.8468
+34079,REDACTED PERSONAL DATA,2045.4,Education & sports,Grants & allowances,0.8576
+33941,REDACTED PERSONAL DATA,2045.4,Foster carers,Grants & allowances,0.8449
+10381,REDACTED PERSONAL DATA,2045.4,Foster carers,Grants & allowances,0.8449
+13379,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,2045.4,Grants & allowances,Education & sports,0.8425
+10472,REDACTED PERSONAL DATA,2045.4,Education & sports,Grants & allowances,0.8576
+2963,AVANT HEALTHCARE SERVICES LTD,2036.7,General goods & services,"Social, community care & healthcare",0.8335
+11749,ELLIOT AND PHELPS LIMITED,2031.75,Education & sports,General goods & services,0.8104
+10420,REDACTED PERSONAL DATA,2016.0,General goods & services,Grants & allowances,0.8148
+36637,REDACTED PERSONAL DATA,1996.8,Vehicles & transport,Grants & allowances,0.8911
+2551,TT BUILDING CONSULTANCY LIMITED,1982.0,General goods & services,Professional services (consultants),0.9052
+23487,TT BUILDING CONSULTANCY LIMITED,1982.0,General goods & services,Professional services (consultants),0.9052
+1405,LAMPTON SCHOOL ACADEMY TRUST,1981.4,Grants & allowances,Education & sports,0.905
+4156,LADYBIRD LANE DAY NURSERY,1980.0,Grants & allowances,Education & sports,0.8004
+3458,EVOLUTION PLAYGROUP,1980.0,Care providers,Education & sports,0.9801
+17191,EVOLUTION PLAYGROUP,1980.0,Care providers,Education & sports,0.9801
+28482,ONCE UPON A TIME NURSERY @FELTHAM HILL,1980.0,General goods & services,Education & sports,0.9143
+32766,EVOLUTION PLAYGROUP,1980.0,Care providers,Education & sports,0.9801
+17188,EVOLUTION PLAYGROUP,1980.0,Care providers,Education & sports,0.9801
+18171,ONCE UPON A TIME NURSERY @FELTHAM HILL,1980.0,General goods & services,Education & sports,0.9143
+3455,EVOLUTION PLAYGROUP,1980.0,Care providers,Education & sports,0.9801
+36377,ONCE UPON A TIME NURSERY @FELTHAM HILL,1980.0,General goods & services,Education & sports,0.9143
+29392,THE DE LACEY DAY NURSERY SCHOOL,1980.0,Grants & allowances,General goods & services,0.8468
+36866,SPORTSAFE UK LTD,1956.59,Education & sports,General goods & services,0.8328
+7677,REDACTED PERSONAL DATA,1950.97,General goods & services,Grants & allowances,0.8557
+32178,ALPHATRACK SYSTEMS LTD,1950.0,Construction industry suppliers (CIS),General goods & services,0.8157
+33955,REDACTED PERSONAL DATA,1943.13,General goods & services,Grants & allowances,0.8557
+10384,REDACTED PERSONAL DATA,1943.13,General goods & services,Grants & allowances,0.8557
+17647,JONES LANG LASALLE LIMITED,1937.5,Utilities,Professional services (consultants),0.816
+8811,ALPHATRACK SYSTEMS LTD,1919.39,Construction industry suppliers (CIS),General goods & services,0.8463
+7704,REDACTED PERSONAL DATA,1909.05,Education & sports,Grants & allowances,0.8576
+25827,REDACTED PERSONAL DATA,1909.05,Education & sports,Grants & allowances,0.8148
+7805,REDACTED PERSONAL DATA,1909.05,Education & sports,Grants & allowances,0.8148
+25914,REDACTED PERSONAL DATA,1909.05,Education & sports,Grants & allowances,0.8576
+32989,HOMEGROUND MANAGEMENT LIMITED,1907.68,Professional services (consultants),Accommodation (housing),0.9655
+7288,NATIONAL HOUSE REMOVALS LTD,1900.0,"Social, community care & healthcare",General goods & services,0.8026
+28952,REDACTED PERSONAL DATA,1899.3,General goods & services,Grants & allowances,0.8576
+2018,REDACTED PERSONAL DATA,1899.3,Education & sports,Grants & allowances,0.8576
+28977,REDACTED PERSONAL DATA,1899.3,Foster carers,Grants & allowances,0.8425
+2150,REDACTED PERSONAL DATA,1899.3,Foster carers,Grants & allowances,0.8425
+28844,REDACTED PERSONAL DATA,1899.3,Education & sports,Grants & allowances,0.8576
+28073,LADYBIRD LANE DAY NURSERY,1899.3,Grants & allowances,Education & sports,0.8004
+23079,REDACTED PERSONAL DATA,1876.29,Grants & allowances,Foster carers,0.8094
+21672,ANGLE ADAPTIONS LTD,1875.0,"Social, community care & healthcare",General goods & services,0.8149
+10967,VIRGIN MEDIA PAYMENTS LIMITED,1871.1,General goods & services,"ICT hardware, software & networks",0.8324
+24909,HSL COMPLIANCE LTD,1855.0,Construction industry suppliers (CIS),General goods & services,0.8419
+32615,COAT OF MANY COLOURS NURSERY,1841.7,Grants & allowances,Education & sports,0.8592
+5006,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1835.64,Grants & allowances,Education & sports,0.8749
+36788,SCCI ALPHATRACK LTD,1824.79,General goods & services,Construction industry suppliers (CIS),0.9157
+26035,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1815.0,Grants & allowances,Education & sports,0.8749
+26036,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1815.0,Grants & allowances,Education & sports,0.8749
+36632,REDACTED PERSONAL DATA,1814.4,Vehicles & transport,Grants & allowances,0.8794
+4724,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9471
+28884,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+31398,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+2043,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+18414,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+15641,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+20883,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+23094,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+10543,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+7774,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9471
+34134,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+25782,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+12897,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+36687,REDACTED PERSONAL DATA,1800.0,Grants & allowances,Accommodation (housing),0.9724
+13770,AMBIENT PEOPLE LIMITED,1772.98,Local authorities / central government,General goods & services,0.8022
+21660,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+19283,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+19282,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+21666,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+8825,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+19280,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+34981,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+34987,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+8826,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+34989,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+34982,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+8820,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+21667,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+26810,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+26805,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+26806,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+26809,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+19286,AMBIENT PEOPLE LIMITED,1772.97,Local authorities / central government,General goods & services,0.8022
+1382,KINGSLEY ROAD CARS LTD,1764.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+31216,OFIY HEALTHCARE LTD,1760.4,Agency staff,Vehicles & transport,0.8275
+7093,LADYBIRD LANE DAY NURSERY,1760.0,Grants & allowances,Education & sports,0.8004
+28679,PROSPERO GROUP LIMITED,1760.0,Education & sports,Vehicles & transport,0.9243
+37203,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+26487,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+34707,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+26490,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+26486,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+26488,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+26489,VIRGIN MEDIA PAYMENTS LIMITED,1754.46,General goods & services,"ICT hardware, software & networks",0.8324
+6861,HSL COMPLIANCE LTD,1750.0,Construction industry suppliers (CIS),General goods & services,0.8419
+258,AMBIENT PEOPLE LIMITED,1747.2,Local authorities / central government,General goods & services,0.8022
+257,AMBIENT PEOPLE LIMITED,1747.2,Local authorities / central government,General goods & services,0.8022
+264,AMBIENT PEOPLE LIMITED,1747.2,Local authorities / central government,General goods & services,0.8022
+261,AMBIENT PEOPLE LIMITED,1747.2,Local authorities / central government,General goods & services,0.8022
+26803,AMBIENT PEOPLE LIMITED,1747.2,Local authorities / central government,General goods & services,0.8022
+1529,METIS CONSULTANTS LTD,1740.8,Environmental services,Professional services (consultants),0.8022
+21202,TT BUILDING CONSULTANCY LIMITED,1736.94,General goods & services,Professional services (consultants),0.9052
+31402,REDACTED PERSONAL DATA,1731.66,General goods & services,Grants & allowances,0.8425
+33430,METIS CONSULTANTS LTD,1730.11,Environmental services,Professional services (consultants),0.8022
+11615,COAT OF MANY COLOURS NURSERY,1728.0,Grants & allowances,Education & sports,0.8592
+32784,FAIRYLAND NURSERY,1727.0,Grants & allowances,Education & sports,0.8079
+10703,STANNAH LIFTS LTD,1725.0,Construction industry suppliers (CIS),General goods & services,0.8328
+25996,SCCI ALPHATRACK LTD,1721.36,General goods & services,Construction industry suppliers (CIS),0.9129
+26852,ASCENTIS,1708.0,Voluntary organisations,General goods & services,0.8439
+12978,REDACTED PERSONAL DATA,1680.1,General goods & services,Grants & allowances,0.8148
+23936,AVANT HEALTHCARE SERVICES LTD,1666.01,General goods & services,"Social, community care & healthcare",0.8335
+15518,REDACTED PERSONAL DATA,1664.0,General goods & services,Grants & allowances,0.8148
+1432,LIBERATA UK LTD,1660.18,General goods & services,"ICT hardware, software & networks",0.887
+28837,REDACTED PERSONAL DATA,1655.8,General goods & services,Grants & allowances,0.8449
+33943,REDACTED PERSONAL DATA,1654.27,Foster carers,Grants & allowances,0.8449
+7177,LONDON HIRE LIMITED,1650.27,General goods & services,Vehicles & transport,0.8889
+4231,LONDON HIRE LIMITED,1650.27,General goods & services,Vehicles & transport,0.8896
+32643,CRABTREE PROPERTY MANAGEMENT LTD,1646.64,General goods & services,Accommodation (housing),0.9707
+19754,DULUX DECORATOR CENTRE,1646.36,Accommodation (housing),General goods & services,0.883
+27060,CALFORD SEADEN LLP,1642.74,General goods & services,Professional services (consultants),0.8125
+4451,OFIY HEALTHCARE LTD,1638.15,Agency staff,Vehicles & transport,0.8275
+13188,STANNAH LIFTS LTD,1636.94,Construction industry suppliers (CIS),General goods & services,0.8328
+34040,REDACTED PERSONAL DATA,1631.57,General goods & services,Grants & allowances,0.8425
+21637,ALPHATRACK SYSTEMS LTD,1631.5,Construction industry suppliers (CIS),General goods & services,0.8157
+31477,REDACTED PERSONAL DATA,1629.36,Vehicles & transport,Grants & allowances,0.8727
+15597,REDACTED PERSONAL DATA,1607.1,Education & sports,Grants & allowances,0.8576
+12847,REDACTED PERSONAL DATA,1607.1,Education & sports,Grants & allowances,0.8576
+14208,COAT OF MANY COLOURS NURSERY,1607.1,Grants & allowances,Education & sports,0.8592
+12918,REDACTED PERSONAL DATA,1607.1,Education & sports,Grants & allowances,0.8148
+14367,EVOLUTION PLAYGROUP,1607.1,Care providers,Education & sports,0.9801
+35819,HOUNSLOW HIGHWAYS SERVICES LTD,1601.0,Financial services,Professional services (consultants),0.8618
+29852,A1 EXECUTIVE TRAVEL GROUP LTD,1600.0,General goods & services,Vehicles & transport,0.8447
+273,ANGLE ADAPTIONS LTD,1600.0,"Social, community care & healthcare",General goods & services,0.8149
+12172,HSL COMPLIANCE LTD,1595.05,Construction industry suppliers (CIS),General goods & services,0.8419
+34395,TECHNICAL ASSET MANAGEMENT,1590.0,"Facilities management, mail & clothing",General goods & services,0.845
+33034,HSL COMPLIANCE LTD,1584.78,Construction industry suppliers (CIS),General goods & services,0.8419
+29781,VIRGIN MEDIA PAYMENTS LIMITED,1579.5,General goods & services,"ICT hardware, software & networks",0.8324
+21432,VIRGIN MEDIA PAYMENTS LIMITED,1579.5,General goods & services,"ICT hardware, software & networks",0.8324
+2612,VIRGIN MEDIA PAYMENTS LIMITED,1579.5,General goods & services,"ICT hardware, software & networks",0.8324
+23572,VIRGIN MEDIA PAYMENTS LIMITED,1579.5,General goods & services,"ICT hardware, software & networks",0.8324
+18471,REDACTED PERSONAL DATA,1576.8,Vehicles & transport,Grants & allowances,0.8727
+11753,ELLIOT AND PHELPS LIMITED,1575.0,Education & sports,General goods & services,0.8104
+28678,PROSPERO GROUP LIMITED,1575.0,Education & sports,Vehicles & transport,0.9243
+17918,METIS CONSULTANTS LTD,1562.68,Environmental services,Professional services (consultants),0.8022
+12437,METIS CONSULTANTS LTD,1562.68,Environmental services,Professional services (consultants),0.8022
+8832,ANGLE ADAPTIONS LTD,1550.0,"Social, community care & healthcare",General goods & services,0.8149
+31794,UNITY RECRUITMENT LTD,1540.33,Human resources,Agency staff,0.8166
+29886,ADDISON LEE,1536.61,Vehicles & transport,Accommodation (housing),0.8016
+23848,ANGLE ADAPTIONS LTD,1520.0,"Social, community care & healthcare",General goods & services,0.8149
+1622,NATWEST COMMERCIAL CARD DIVISION,1519.6,Financial services,General goods & services,0.8829
+13253,TECHNICAL ASSET MANAGEMENT,1517.75,"Facilities management, mail & clothing",General goods & services,0.845
+33041,HSL COMPLIANCE LTD,1514.31,Construction industry suppliers (CIS),General goods & services,0.8419
+12515,NATWEST COMMERCIAL CARD DIVISION,1513.9,Financial services,General goods & services,0.849
+26853,ASCENTIS,1512.0,Voluntary organisations,General goods & services,0.8439
+12916,REDACTED PERSONAL DATA,1511.75,Foster carers,Grants & allowances,0.8449
+32179,ALPHATRACK SYSTEMS LTD,1509.89,Construction industry suppliers (CIS),General goods & services,0.8463
+25264,METIS CONSULTANTS LTD,1506.87,Environmental services,Professional services (consultants),0.8022
+17828,LAMPTON LEISURE LIMITED,1500.0,Intercompany (council group),Grants & allowances,0.8418
+9340,EVOLUTION PLAYGROUP,1500.0,Care providers,Education & sports,0.9605
+10876,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1500.0,Grants & allowances,Education & sports,0.913
+4536,PERMANENT FUTURES LTD,1500.0,Agency staff,Education & sports,0.8106
+10200,ONCE UPON A TIME DAY NURSERIES,1500.0,Education & sports,General goods & services,0.8018
+10735,SWEET CUDDLES NURSERY LTD,1500.0,Grants & allowances,Education & sports,0.8553
+9230,DE LACEY ELMWOOD,1500.0,Grants & allowances,General goods & services,0.8823
+26931,BEDFONT PRIMARY SCHOOL,1500.0,General goods & services,Education & sports,0.8918
+17827,LAMPTON LEISURE LIMITED,1500.0,Intercompany (council group),Grants & allowances,0.8418
+13718,AEON ELECTRONIC PROTECTION SYSTEMS LTD,1490.0,General goods & services,Construction industry suppliers (CIS),0.8207
+29160,SCCI ALPHATRACK LTD,1484.88,General goods & services,Construction industry suppliers (CIS),0.9129
+13769,AMBIENT PEOPLE LIMITED,1477.48,Local authorities / central government,General goods & services,0.8022
+13767,AMBIENT PEOPLE LIMITED,1477.48,Local authorities / central government,General goods & services,0.8022
+10003,METIS CONSULTANTS LTD,1463.46,Environmental services,Professional services (consultants),0.8022
+5147,THE DE LACEY DAY NURSERY SCHOOL,1462.29,Grants & allowances,General goods & services,0.8468
+24319,COAT OF MANY COLOURS NURSERY,1461.0,Grants & allowances,Education & sports,0.8592
+12976,REDACTED PERSONAL DATA,1461.0,General goods & services,Grants & allowances,0.8148
+11819,FAIRYLAND NURSERY,1461.0,Grants & allowances,Education & sports,0.8079
+13378,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1461.0,Grants & allowances,Education & sports,0.8425
+29490,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1458.6,Grants & allowances,Education & sports,0.8425
+36635,REDACTED PERSONAL DATA,1454.0,Professional services (consultants),Grants & allowances,0.8727
+14919,KINGSLEY ROAD CARS LTD,1452.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+15052,METIS CONSULTANTS LTD,1451.06,Environmental services,Professional services (consultants),0.8022
+559,CENTAUR TRAINING LIMITED,1449.0,Human resources,Professional services (consultants),0.8071
+7809,REDACTED PERSONAL DATA,1446.92,General goods & services,Grants & allowances,0.8425
+17573,HSL COMPLIANCE LTD,1438.85,Construction industry suppliers (CIS),General goods & services,0.8419
+12156,HSL COMPLIANCE LTD,1438.85,Construction industry suppliers (CIS),General goods & services,0.8419
+3879,HSL COMPLIANCE LTD,1438.85,Construction industry suppliers (CIS),General goods & services,0.8419
+36884,STANNAH LIFTS LTD,1438.0,Construction industry suppliers (CIS),General goods & services,0.8328
+20999,SHEPPERTON CARS LTD,1437.5,General goods & services,Vehicles & transport,0.9308
+31757,TLT SOLICITORS,1437.0,General goods & services,Legal (excl. counsel fees),0.8377
+11754,ELLIOT AND PHELPS LIMITED,1435.5,Education & sports,General goods & services,0.8104
+15569,REDACTED PERSONAL DATA,1435.2,Vehicles & transport,Grants & allowances,0.8911
+4678,REDACTED PERSONAL DATA,1435.2,Vehicles & transport,Grants & allowances,0.8911
+8957,BLAKEDOWN LANDSCAPES (SE) LTD,1433.25,Construction industry suppliers (CIS),Professional services (consultants),0.8227
+16038,TLT SOLICITORS,1432.0,General goods & services,Legal (excl. counsel fees),0.8377
+16036,TLT SOLICITORS,1418.0,General goods & services,Legal (excl. counsel fees),0.8377
+1524,METIS CONSULTANTS LTD,1414.4,Environmental services,Professional services (consultants),0.8022
+10118,NATWEST COMMERCIAL CARD DIVISION,1406.02,Financial services,General goods & services,0.849
+10418,REDACTED PERSONAL DATA,1397.55,General goods & services,Grants & allowances,0.8148
+25893,REDACTED PERSONAL DATA,1393.7,General goods & services,Grants & allowances,0.8425
+31793,UNITY RECRUITMENT LTD,1393.32,Human resources,Agency staff,0.8166
+23493,TUDOR PARK EDUCATION TRUST,1388.33,General goods & services,Education & sports,0.8179
+35879,HSL COMPLIANCE LTD,1385.17,Construction industry suppliers (CIS),General goods & services,0.8419
+35880,HSL COMPLIANCE LTD,1384.74,Construction industry suppliers (CIS),General goods & services,0.8419
+35887,HSL COMPLIANCE LTD,1384.74,Construction industry suppliers (CIS),General goods & services,0.8419
+13388,TLT SOLICITORS,1383.0,General goods & services,Legal (excl. counsel fees),0.8377
+12157,HSL COMPLIANCE LTD,1380.41,Construction industry suppliers (CIS),General goods & services,0.8419
+28344,NATWEST COMMERCIAL CARD DIVISION,1365.79,Financial services,General goods & services,0.849
+8053,SCCI ALPHATRACK LTD,1360.1,General goods & services,Construction industry suppliers (CIS),0.9129
+17574,HSL COMPLIANCE LTD,1358.11,Construction industry suppliers (CIS),General goods & services,0.8419
+12158,HSL COMPLIANCE LTD,1354.68,Construction industry suppliers (CIS),General goods & services,0.8419
+33971,REDACTED PERSONAL DATA,1344.0,General goods & services,Grants & allowances,0.8449
+32893,HARVARD PARK PLAYGROUP,1344.0,Education & sports,General goods & services,0.8963
+34044,REDACTED PERSONAL DATA,1344.0,General goods & services,Grants & allowances,0.8576
+10377,REDACTED PERSONAL DATA,1344.0,General goods & services,Grants & allowances,0.8576
+33939,REDACTED PERSONAL DATA,1344.0,Education & sports,Grants & allowances,0.8148
+12934,REDACTED PERSONAL DATA,1344.0,Professional services (consultants),Grants & allowances,0.8557
+33972,REDACTED PERSONAL DATA,1344.0,General goods & services,Grants & allowances,0.8449
+32785,FAIRYLAND NURSERY,1344.0,Grants & allowances,Education & sports,0.8079
+33938,REDACTED PERSONAL DATA,1344.0,Education & sports,Grants & allowances,0.8148
+33928,REDACTED PERSONAL DATA,1344.0,General goods & services,Grants & allowances,0.8576
+31055,METIS CONSULTANTS LTD,1339.44,Environmental services,Professional services (consultants),0.8022
+33038,HSL COMPLIANCE LTD,1334.8,Construction industry suppliers (CIS),General goods & services,0.8419
+30044,ASCENTIS,1332.0,Voluntary organisations,General goods & services,0.8439
+15840,STANNAH LIFTS LTD,1332.0,Construction industry suppliers (CIS),General goods & services,0.8328
+4132,KINGSLEY ROAD CARS LTD,1331.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+319,ASCENTIS,1330.0,Voluntary organisations,General goods & services,0.8439
+7289,NATIONAL HOUSE REMOVALS LTD,1330.0,"Social, community care & healthcare",General goods & services,0.8026
+36836,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+34275,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+18593,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+5003,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+5001,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+5004,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+18595,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+29218,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+37060,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+37059,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+29477,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+29481,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+17189,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+35552,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+37061,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+34531,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+29479,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+37058,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+29484,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+34532,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+18806,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+18804,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+18802,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+18803,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+5272,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+17190,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+5269,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+5267,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+35553,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+35554,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+18807,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+18808,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+3456,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+18809,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+5270,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+5271,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+26340,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+5265,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+5266,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+3457,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+17824,LADYBIRD LANE DAY NURSERY,1320.0,Grants & allowances,Education & sports,0.8004
+33265,LADYBIRD LANE DAY NURSERY,1320.0,Grants & allowances,Education & sports,0.8004
+18591,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+4157,LADYBIRD LANE DAY NURSERY,1320.0,Grants & allowances,Education & sports,0.8004
+29475,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+29480,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+37063,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1320.0,Grants & allowances,Education & sports,0.8425
+4999,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+27386,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+27387,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+36834,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1320.0,Grants & allowances,Education & sports,0.8749
+27388,EVOLUTION PLAYGROUP,1320.0,Care providers,Education & sports,0.9801
+23028,DOLPHINS CHILDCARE LIMITED,1315.0,Grants & allowances,Education & sports,0.8638
+13265,THE DE LACEY DAY NURSERY SCHOOL,1314.9,Grants & allowances,General goods & services,0.8468
+31361,REDACTED PERSONAL DATA,1310.4,Vehicles & transport,Grants & allowances,0.8911
+23934,AVANT HEALTHCARE SERVICES LTD,1308.32,General goods & services,"Social, community care & healthcare",0.8335
+12170,HSL COMPLIANCE LTD,1306.77,Construction industry suppliers (CIS),General goods & services,0.8419
+25834,REDACTED PERSONAL DATA,1300.65,Education & sports,Grants & allowances,0.8576
+7739,REDACTED PERSONAL DATA,1300.65,Education & sports,Grants & allowances,0.8576
+13803,ANGLE ADAPTIONS LTD,1300.0,"Social, community care & healthcare",General goods & services,0.8149
+36964,TECHNICAL ASSET MANAGEMENT,1298.3,"Facilities management, mail & clothing",General goods & services,0.845
+1970,REDACTED PERSONAL DATA,1297.73,General goods & services,Grants & allowances,0.8557
+1390,LADYBIRD LANE DAY NURSERY,1297.73,Grants & allowances,Education & sports,0.8004
+2140,REDACTED PERSONAL DATA,1297.73,General goods & services,Grants & allowances,0.8576
+28753,REDACTED PERSONAL DATA,1297.72,General goods & services,Grants & allowances,0.8557
+28953,REDACTED PERSONAL DATA,1297.72,General goods & services,Grants & allowances,0.8576
+15915,TECHNICAL ASSET MANAGEMENT,1297.2,"Facilities management, mail & clothing",General goods & services,0.845
+22493,HSL COMPLIANCE LTD,1294.93,Construction industry suppliers (CIS),General goods & services,0.8419
+31375,REDACTED PERSONAL DATA,1288.0,Professional services (consultants),Grants & allowances,0.8727
+14974,LITTLE DREAMS DAY NURSERY,1287.0,Education & sports,General goods & services,0.9012
+36298,NORTH STAR DIGITAL LIMITED,1285.0,"Advertising, events & publicity",Public health,0.8119
+20182,HSL COMPLIANCE LTD,1282.49,Construction industry suppliers (CIS),General goods & services,0.8419
+32690,DESTRODENT PEST CONTROL,1280.0,Environmental services,Construction industry suppliers (CIS),0.8261
+29365,TECHNICAL ASSET MANAGEMENT,1279.4,"Facilities management, mail & clothing",General goods & services,0.845
+20183,HSL COMPLIANCE LTD,1275.47,Construction industry suppliers (CIS),General goods & services,0.8419
+272,ANGLE ADAPTIONS LTD,1275.0,"Social, community care & healthcare",General goods & services,0.8149
+16037,TLT SOLICITORS,1274.0,General goods & services,Legal (excl. counsel fees),0.8377
+30384,DULUX DECORATOR CENTRE,1270.14,Accommodation (housing),General goods & services,0.883
+20684,PENNA PLC,1270.0,"Advertising, events & publicity",General goods & services,0.8021
+11729,DULUX DECORATOR CENTRE,1264.88,Accommodation (housing),General goods & services,0.883
+8122,SSE ENERGY SUPPLY LTD,1264.53,Accommodation (housing),Utilities,0.8431
+35685,HARVARD PARK PLAYGROUP,1263.17,Education & sports,General goods & services,0.8963
+33042,HSL COMPLIANCE LTD,1261.75,Construction industry suppliers (CIS),General goods & services,0.8419
+35886,HSL COMPLIANCE LTD,1259.91,Construction industry suppliers (CIS),General goods & services,0.8419
+27826,HSL COMPLIANCE LTD,1257.54,Construction industry suppliers (CIS),General goods & services,0.8419
+27830,HSL COMPLIANCE LTD,1257.54,Construction industry suppliers (CIS),General goods & services,0.8419
+14370,EVOLUTION PLAYGROUP,1248.0,Care providers,Education & sports,0.9801
+4350,NATWEST COMMERCIAL CARD DIVISION,1247.95,Financial services,General goods & services,0.849
+11262,ASCENTIS,1239.0,Voluntary organisations,General goods & services,0.8439
+29482,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1237.5,Grants & allowances,Education & sports,0.8425
+3454,EVOLUTION PLAYGROUP,1237.5,Care providers,Education & sports,0.9801
+17826,LADYBIRD LANE DAY NURSERY,1237.5,Grants & allowances,Education & sports,0.8004
+27384,EVOLUTION PLAYGROUP,1237.5,Care providers,Education & sports,0.9801
+4159,LADYBIRD LANE DAY NURSERY,1237.5,Grants & allowances,Education & sports,0.8004
+17187,EVOLUTION PLAYGROUP,1237.5,Care providers,Education & sports,0.9801
+3880,HSL COMPLIANCE LTD,1236.14,Construction industry suppliers (CIS),General goods & services,0.8419
+27059,CALFORD SEADEN LLP,1235.85,General goods & services,Professional services (consultants),0.8125
+9944,LITTLE PARK SURGERY,1235.0,Professional services (consultants),Public health,0.8247
+24906,HSL COMPLIANCE LTD,1228.76,Construction industry suppliers (CIS),General goods & services,0.8419
+33037,HSL COMPLIANCE LTD,1228.54,Construction industry suppliers (CIS),General goods & services,0.8419
+27839,HSL COMPLIANCE LTD,1225.0,Construction industry suppliers (CIS),General goods & services,0.8419
+20174,HSL COMPLIANCE LTD,1225.0,Construction industry suppliers (CIS),General goods & services,0.8419
+20175,HSL COMPLIANCE LTD,1225.0,Construction industry suppliers (CIS),General goods & services,0.8419
+6633,H CAROLAN CONSTRUCTION,1221.99,General goods & services,Construction industry suppliers (CIS),0.8539
+32187,ALPHATRACK SYSTEMS LTD,1213.01,Construction industry suppliers (CIS),General goods & services,0.8463
+32189,ALPHATRACK SYSTEMS LTD,1213.01,Construction industry suppliers (CIS),General goods & services,0.8463
+11627,COMPASS TAXI LTD,1210.0,General goods & services,Vehicles & transport,0.9276
+23935,AVANT HEALTHCARE SERVICES LTD,1207.68,General goods & services,"Social, community care & healthcare",0.8335
+27831,HSL COMPLIANCE LTD,1204.71,Construction industry suppliers (CIS),General goods & services,0.8419
+27827,HSL COMPLIANCE LTD,1204.71,Construction industry suppliers (CIS),General goods & services,0.8419
+23469,TLT SOLICITORS,1204.0,General goods & services,Legal (excl. counsel fees),0.8377
+20161,HSL COMPLIANCE LTD,1203.4,Construction industry suppliers (CIS),General goods & services,0.8419
+22494,HSL COMPLIANCE LTD,1201.62,Construction industry suppliers (CIS),General goods & services,0.8419
+29997,ANGLE ADAPTIONS LTD,1200.0,"Social, community care & healthcare",General goods & services,0.8149
+36038,KINGSLEY ROAD CARS LTD,1200.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+11752,ELLIOT AND PHELPS LIMITED,1199.0,Education & sports,General goods & services,0.8104
+13095,SCCI ALPHATRACK LTD,1198.12,General goods & services,Construction industry suppliers (CIS),0.9129
+28906,REDACTED PERSONAL DATA,1197.9,Foster carers,Grants & allowances,0.8449
+2055,REDACTED PERSONAL DATA,1197.9,Foster carers,Grants & allowances,0.8449
+12318,LADYBIRD LANE DAY NURSERY,1197.9,Grants & allowances,Education & sports,0.8004
+8121,SSE ENERGY SUPPLY LTD,1192.3,Accommodation (housing),Utilities,0.8431
+8545,VIRTUAL ALLIANCE LIMITED,1192.0,Local authorities / central government,Education & sports,0.859
+26491,VIRTUAL ALLIANCE LIMITED,1192.0,Local authorities / central government,Education & sports,0.859
+2613,VIRTUAL ALLIANCE LIMITED,1192.0,Local authorities / central government,Education & sports,0.859
+13538,VIRTUAL ALLIANCE LIMITED,1192.0,Local authorities / central government,Education & sports,0.859
+23471,TLT SOLICITORS,1189.0,General goods & services,Legal (excl. counsel fees),0.8377
+4902,RICOH UK LTD,1187.39,"ICT hardware, software & networks",General goods & services,0.8022
+12920,REDACTED PERSONAL DATA,1185.16,General goods & services,Grants & allowances,0.8425
+21664,AMBIENT PEOPLE LIMITED,1181.98,Local authorities / central government,General goods & services,0.8022
+23470,TLT SOLICITORS,1175.0,General goods & services,Legal (excl. counsel fees),0.8377
+16122,VIBE TEACHER RECRUITMENT LTD,1174.2,Education & sports,Agency staff,0.8665
+33573,NATWEST COMMERCIAL CARD DIVISION,1170.55,Financial services,General goods & services,0.849
+24318,COAT OF MANY COLOURS NURSERY,1168.8,Grants & allowances,Education & sports,0.8592
+65,AARDVARK PLANNING LAW,1166.67,Legal (excl. counsel fees),Professional services (consultants),0.8475
+31478,REDACTED PERSONAL DATA,1156.32,Vehicles & transport,Grants & allowances,0.8727
+35523,ELLIOT AND PHELPS LIMITED,1155.0,Education & sports,General goods & services,0.8104
+2056,REDACTED PERSONAL DATA,1152.0,Foster carers,Grants & allowances,0.8449
+12163,HSL COMPLIANCE LTD,1148.0,Construction industry suppliers (CIS),General goods & services,0.8419
+35504,DULUX DECORATOR CENTRE,1147.76,Accommodation (housing),General goods & services,0.883
+26783,ALPHATRACK SYSTEMS LTD,1139.39,Construction industry suppliers (CIS),General goods & services,0.8463
+9945,LITTLE PARK SURGERY,1134.0,Professional services (consultants),Public health,0.8247
+15124,NATWEST COMMERCIAL CARD DIVISION,1124.85,Financial services,General goods & services,0.849
+27824,HSL COMPLIANCE LTD,1119.65,Construction industry suppliers (CIS),General goods & services,0.8419
+27828,HSL COMPLIANCE LTD,1119.65,Construction industry suppliers (CIS),General goods & services,0.8419
+26854,ASCENTIS,1112.0,Voluntary organisations,General goods & services,0.8439
+12154,HSL COMPLIANCE LTD,1112.0,Construction industry suppliers (CIS),General goods & services,0.8419
+26167,SURREAL MEDICARE LIMITED,1110.0,General goods & services,Public health,0.8122
+24903,HSL COMPLIANCE LTD,1100.0,Construction industry suppliers (CIS),General goods & services,0.8419
+24902,HSL COMPLIANCE LTD,1100.0,Construction industry suppliers (CIS),General goods & services,0.8419
+36242,NATWEST COMMERCIAL CARD DIVISION,1099.2,Financial services,General goods & services,0.849
+32726,EDF ENERGY,1098.55,Accommodation (housing),Utilities,0.8553
+33284,LEARNING TREE CHILDCARE LTD,1096.0,Care providers,Education & sports,0.8171
+19257,ALPHATRACK SYSTEMS LTD,1091.37,Construction industry suppliers (CIS),General goods & services,0.8463
+36036,KINGSLEY ROAD CARS LTD,1080.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+36037,KINGSLEY ROAD CARS LTD,1080.0,"Social, community care & healthcare",Vehicles & transport,0.8138
+26822,ANGLE ADAPTIONS LTD,1075.0,"Social, community care & healthcare",General goods & services,0.8149
+20162,HSL COMPLIANCE LTD,1061.73,Construction industry suppliers (CIS),General goods & services,0.8419
+15433,REDACTED PERSONAL DATA,1056.0,Professional services (consultants),Grants & allowances,0.8557
+26037,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1056.0,Grants & allowances,Education & sports,0.8749
+12919,REDACTED PERSONAL DATA,1056.0,Education & sports,Grants & allowances,0.8148
+12869,REDACTED PERSONAL DATA,1056.0,Education & sports,Grants & allowances,0.8576
+15461,REDACTED PERSONAL DATA,1056.0,Education & sports,Grants & allowances,0.8576
+15462,REDACTED PERSONAL DATA,1056.0,General goods & services,Grants & allowances,0.8557
+12826,REDACTED PERSONAL DATA,1056.0,General goods & services,Grants & allowances,0.8557
+15447,REDACTED PERSONAL DATA,1056.0,Foster carers,Grants & allowances,0.8449
+18805,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1056.0,Grants & allowances,Education & sports,0.8425
+15444,REDACTED PERSONAL DATA,1056.0,Education & sports,Grants & allowances,0.8148
+37062,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1056.0,Grants & allowances,Education & sports,0.8425
+5268,TINY TOEZ PRE-SCHOOL @ HUNTER HOUSE,1056.0,Grants & allowances,Education & sports,0.8425
+4875,REDACTED PERSONAL DATA,1054.5,Education & sports,Grants & allowances,0.8719
+36626,REDACTED PERSONAL DATA,1054.5,Education & sports,Grants & allowances,0.8719
+7305,NATWEST COMMERCIAL CARD DIVISION,1050.04,Financial services,Vehicles & transport,0.9136
+27246,COMPASS TAXI LTD,1050.0,General goods & services,Vehicles & transport,0.9276
+26039,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1050.0,Grants & allowances,Education & sports,0.8749
+2330,SHEPPERTON CARS LTD,1044.0,General goods & services,Vehicles & transport,0.9308
+15517,REDACTED PERSONAL DATA,1039.9,General goods & services,Grants & allowances,0.8148
+236,ALPHATRACK SYSTEMS LTD,1038.31,Construction industry suppliers (CIS),General goods & services,0.8463
+11259,ASCENTIS,1036.0,Voluntary organisations,General goods & services,0.8439
+36408,PARKINSON BAILIFF SERVICES LIMITED,1034.68,Financial services,General goods & services,0.8845
+13804,ANGLE ADAPTIONS LTD,1030.0,"Social, community care & healthcare",General goods & services,0.8149
+25097,KINGSLEY ROAD CARS LTD,1028.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+17811,KINGSLEY ROAD CARS LTD,1028.5,"Social, community care & healthcare",Vehicles & transport,0.8138
+2237,RIDER LEVETT BUCKNALL UK LTD,1027.19,Professional services (consultants),General goods & services,0.8063
+1793,OFIY HEALTHCARE LTD,1026.9,Agency staff,Vehicles & transport,0.8275
+13134,SMALL STEPS DAY NURSERY & PRE-SCHOOL,1022.7,Grants & allowances,Education & sports,0.8749
+35684,HARVARD PARK PLAYGROUP,1022.7,Education & sports,General goods & services,0.8963
+10419,REDACTED PERSONAL DATA,1022.7,General goods & services,Grants & allowances,0.8148
+21690,ASCENTIS,1020.0,Voluntary organisations,General goods & services,0.8439
+26001,SECURING FUTURES LTD,1020.0,General goods & services,Education & sports,0.8441
+13096,SCCI ALPHATRACK LTD,1011.96,General goods & services,Construction industry suppliers (CIS),0.9129
+20986,SCCI ALPHATRACK LTD,1007.16,General goods & services,Construction industry suppliers (CIS),0.9129
+5850,ASCENTIS,1005.0,Voluntary organisations,General goods & services,0.8439
+31054,METIS CONSULTANTS LTD,1004.58,Environmental services,Professional services (consultants),0.8022
+4342,NATWEST COMMERCIAL CARD DIVISION,1003.23,Financial services,Vehicles & transport,0.9136
+1636,NATWEST COMMERCIAL CARD DIVISION,1001.0,Financial services,General goods & services,0.849
+6862,HSL COMPLIANCE LTD,1000.0,Construction industry suppliers (CIS),General goods & services,0.8419
+7212,MALDEN OAKS,-1000.0,Local authorities / central government,Education & sports,0.8724
+20519,MY FIRE SAFETY LIMITED,1000.0,"Facilities management, mail & clothing",General goods & services,0.8007
+7211,MALDEN OAKS,1000.0,Local authorities / central government,Education & sports,0.8724
+36406,PARESH WADHWANI T/A PRIME IMMIGRATION LIMITED,1000.0,Legal (excl. counsel fees),General goods & services,0.8573

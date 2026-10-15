@@ -1,0 +1,57 @@
+table dq_possible_duplicate_payments
+
+	column payment_id
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: payment_id
+
+	column supplier_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: supplier_name
+
+	column payment_date
+		dataType: dateTime
+		formatString: dd mmm yyyy
+		summarizeBy: none
+		sourceColumn: payment_date
+
+	column amount
+		dataType: double
+		formatString: £#,0;-£#,0
+		summarizeBy: none
+		sourceColumn: amount
+
+	column transaction_number
+		dataType: string
+		summarizeBy: none
+		sourceColumn: transaction_number
+
+	column source_file
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column source_row
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: source_row
+
+	column lines_in_group
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: lines_in_group
+
+	partition dq_possible_duplicate_payments = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dq_possible_duplicate_payments.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"payment_id", Int64.Type}, {"supplier_name", type text}, {"payment_date", type date}, {"amount", type number}, {"transaction_number", type text}, {"source_file", type text}, {"source_row", Int64.Type}, {"lines_in_group", Int64.Type}}, "en-GB")
+				in
+					Typed

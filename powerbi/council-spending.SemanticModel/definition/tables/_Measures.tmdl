@@ -1,0 +1,159 @@
+table _Measures
+	lineageTag: b582f3ce-9fd6-5634-b599-dc61df992f28
+
+	measure 'Net Spend' = SUM ( fact_payments[amount] )
+		formatString: £#,0;-£#,0
+		displayFolder: Core
+
+	measure 'Gross Spend' = CALCULATE ( [Net Spend], fact_payments[amount] > 0 )
+		formatString: £#,0;-£#,0
+		displayFolder: Core
+
+	measure 'Credit Notes' = CALCULATE ( [Net Spend], fact_payments[amount] < 0 )
+		formatString: £#,0;-£#,0
+		displayFolder: Core
+
+	measure 'Payment Lines' = COUNTROWS ( fact_payments )
+		formatString: #,0
+		displayFolder: Core
+
+	measure 'Average Payment' = DIVIDE ( [Net Spend], [Payment Lines] )
+		formatString: £#,0;-£#,0
+		displayFolder: Core
+
+	measure 'Net Spend (Named Suppliers)' = CALCULATE ( [Net Spend], dim_supplier[is_redacted] = 0 )
+		formatString: £#,0;-£#,0
+		displayFolder: Core
+
+	measure 'Named Suppliers' = CALCULATE ( DISTINCTCOUNT ( fact_payments[supplier_key] ), dim_supplier[is_redacted] = 0 )
+		formatString: #,0
+		displayFolder: Core
+
+	measure 'Redacted Share %' = DIVIDE ( CALCULATE ( [Net Spend], dim_supplier[is_redacted] = 1 ), [Net Spend] )
+		formatString: 0.0%
+		displayFolder: Core
+
+	measure 'Net Spend PM' = CALCULATE ( [Net Spend], DATEADD ( dim_date[date], -1, MONTH ) )
+		formatString: £#,0;-£#,0
+		displayFolder: Time
+
+	measure 'MoM Change' = [Net Spend] - [Net Spend PM]
+		formatString: £#,0;-£#,0
+		displayFolder: Time
+
+	measure 'MoM Change %' = DIVIDE ( [MoM Change], [Net Spend PM] )
+		formatString: 0.0%
+		displayFolder: Time
+
+	measure 'Net Spend FYTD' = VAR _fy = MAX ( dim_date[financial_year] ) VAR _max = MAX ( dim_date[date] ) RETURN CALCULATE ( [Net Spend], FILTER ( ALL ( dim_date ), dim_date[financial_year] = _fy && dim_date[date] <= _max ) )
+		formatString: £#,0;-£#,0
+		displayFolder: Time
+
+	measure 'Rolling 3M Net Spend' = CALCULATE ( [Net Spend], DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -3, MONTH ) )
+		formatString: £#,0;-£#,0
+		displayFolder: Time
+
+	measure 'Supplier Rank' = IF ( HASONEVALUE ( dim_supplier[supplier_display] ), RANKX ( ALLSELECTED ( dim_supplier[supplier_display], dim_supplier[supplier_type] ), [Net Spend (Named Suppliers)], , DESC, DENSE ) )
+		formatString: 0
+		displayFolder: Suppliers
+
+	measure 'Share of Total %' = DIVIDE ( [Net Spend (Named Suppliers)], CALCULATE ( [Net Spend (Named Suppliers)], ALLSELECTED ( dim_supplier ) ) )
+		formatString: 0.0%
+		displayFolder: Suppliers
+
+	measure 'Cumulative Share %' = VAR _cur = [Net Spend (Named Suppliers)] VAR _all = ALLSELECTED ( dim_supplier[supplier_display] ) VAR _total = SUMX ( _all, [Net Spend (Named Suppliers)] ) RETURN DIVIDE ( SUMX ( FILTER ( _all, [Net Spend (Named Suppliers)] >= _cur ), [Net Spend (Named Suppliers)] ), _total )
+		formatString: 0.0%
+		displayFolder: Suppliers
+
+	measure 'Top 10 Suppliers Share %' = VAR _top10 = TOPN ( 10, ALLSELECTED ( dim_supplier[supplier_display] ), [Net Spend (Named Suppliers)], DESC ) RETURN DIVIDE ( SUMX ( _top10, [Net Spend (Named Suppliers)] ), CALCULATE ( [Net Spend (Named Suppliers)], ALLSELECTED ( dim_supplier ) ) )
+		formatString: 0.0%
+		displayFolder: Suppliers
+
+	measure 'Net Spend (Top 15 Suppliers)' = IF ( [Supplier Rank] <= 15, [Net Spend (Named Suppliers)] )
+		formatString: £#,0;-£#,0
+		displayFolder: Suppliers
+
+	measure 'Cumulative Share % (Top 15)' = IF ( [Supplier Rank] <= 15, [Cumulative Share %] )
+		formatString: 0.0%
+		displayFolder: Suppliers
+
+	measure 'Named Payment Lines' = CALCULATE ( COUNTROWS ( fact_payments ), dim_supplier[is_redacted] = 0 )
+		formatString: #,0
+		displayFolder: Suppliers
+
+	measure 'New Suppliers' = CALCULATE ( DISTINCTCOUNT ( dim_supplier[supplier_key] ), USERELATIONSHIP ( dim_supplier[first_payment_date], dim_date[date] ), dim_supplier[is_redacted] = 0 )
+		formatString: #,0
+		displayFolder: Suppliers
+
+	measure 'One-Month Suppliers' = VAR _s = ADDCOLUMNS ( CALCULATETABLE ( VALUES ( dim_supplier[supplier_key] ), dim_supplier[is_redacted] = 0 ), "@months", CALCULATE ( COUNTROWS ( SUMMARIZE ( fact_payments, dim_date[year_month] ) ) ) ) RETURN COUNTROWS ( FILTER ( _s, [@months] = 1 ) ) + 0
+		formatString: #,0
+		displayFolder: Suppliers
+
+	measure 'DQ Checks Passed' = COUNTROWS ( FILTER ( dq_results, dq_results[result] = "PASS" ) ) + 0
+		formatString: #,0
+		displayFolder: Data quality
+
+	measure 'DQ Checks Warning' = COUNTROWS ( FILTER ( dq_results, dq_results[result] = "WARN" ) ) + 0
+		formatString: #,0
+		displayFolder: Data quality
+
+	measure 'DQ Checks Failed' = COUNTROWS ( FILTER ( dq_results, dq_results[result] = "FAIL" ) ) + 0
+		formatString: #,0
+		displayFolder: Data quality
+
+	measure 'DQ Pass Rate %' = DIVIDE ( [DQ Checks Passed], [DQ Checks Passed] + [DQ Checks Warning] + [DQ Checks Failed] )
+		formatString: 0.0%
+		displayFolder: Data quality
+
+	measure 'Rows Excluded' = COUNTROWS ( excluded_rows )
+		formatString: #,0
+		displayFolder: Data quality
+
+	measure 'Possible Duplicate Payment Value' = CALCULATE ( [Net Spend], fact_payments[is_possible_duplicate_payment] = 1 )
+		formatString: £#,0;-£#,0
+		displayFolder: Data quality
+
+	measure 'Credit Note Count' = CALCULATE ( [Payment Lines], fact_payments[is_credit_note] = 1 )
+		formatString: #,0
+		displayFolder: Data quality
+
+	measure 'DQ Share Affected' = DIVIDE ( SUM ( dq_results[pct_affected] ), 100 )
+		formatString: 0.00%
+		displayFolder: Data quality
+
+	measure 'Reconciliation Status' = VAR _fail = [DQ Checks Failed] RETURN IF ( _fail = 0, "Reconciled", _fail & " failed" )
+		displayFolder: Data quality
+
+	measure 'ML Lines' = COUNTROWS ( ml_predictions )
+		formatString: #,0
+		displayFolder: Classification
+
+	measure 'Model Theme Agreement %' = AVERAGE ( ml_predictions[theme_agrees] )
+		formatString: 0.0%
+		displayFolder: Classification
+
+	measure 'Model Category Agreement %' = AVERAGE ( ml_predictions[category_agrees] )
+		formatString: 0.0%
+		displayFolder: Classification
+
+	measure 'Lines For Coding Review' = SUM ( ml_predictions[review_flag] )
+		formatString: #,0
+		displayFolder: Classification
+
+	measure 'Value For Coding Review' = CALCULATE ( [Net Spend], ml_predictions[review_flag] = 1 )
+		formatString: £#,0;-£#,0
+		displayFolder: Classification
+
+	column Hidden
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: Hidden
+
+	partition _Measures = m
+		mode: import
+		source =
+				let
+					Source = #table(type table [Hidden = Int64.Type], {})
+				in
+					Source

@@ -1,0 +1,62 @@
+table ml_predictions
+
+	column payment_id
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: payment_id
+
+	column council_category
+		dataType: string
+		summarizeBy: none
+		sourceColumn: council_category
+
+	column predicted_category
+		dataType: string
+		summarizeBy: none
+		sourceColumn: predicted_category
+
+	column confidence
+		dataType: double
+		formatString: 0.00
+		summarizeBy: none
+		sourceColumn: confidence
+
+	column predicted_theme
+		dataType: string
+		summarizeBy: none
+		sourceColumn: predicted_theme
+
+	column council_theme
+		dataType: string
+		summarizeBy: none
+		sourceColumn: council_theme
+
+	column category_agrees
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: category_agrees
+
+	column theme_agrees
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: theme_agrees
+
+	column review_flag
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		sourceColumn: review_flag
+
+	partition ml_predictions = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "ml_predictions.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"payment_id", Int64.Type}, {"council_category", type text}, {"predicted_category", type text}, {"confidence", type number}, {"predicted_theme", type text}, {"council_theme", type text}, {"category_agrees", Int64.Type}, {"theme_agrees", Int64.Type}, {"review_flag", Int64.Type}}, "en-GB")
+				in
+					Typed

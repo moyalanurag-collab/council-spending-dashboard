@@ -1,0 +1,24 @@
+table dim_purpose
+
+	column purpose_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: purpose_key
+
+	column purpose
+		dataType: string
+		summarizeBy: none
+		sourceColumn: purpose
+
+	partition dim_purpose = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dim_purpose.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"purpose_key", Int64.Type}, {"purpose", type text}}, "en-GB"),
+					Proper = Table.TransformColumns(Typed, {{"purpose", each Text.Proper(_), type text}})
+				in
+					Proper

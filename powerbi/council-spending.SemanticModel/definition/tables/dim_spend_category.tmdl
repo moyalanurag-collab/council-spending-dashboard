@@ -1,0 +1,28 @@
+table dim_spend_category
+
+	column spend_category_key
+		dataType: int64
+		formatString: 0
+		isHidden
+		summarizeBy: none
+		sourceColumn: spend_category_key
+
+	column spend_category
+		dataType: string
+		summarizeBy: none
+		sourceColumn: spend_category
+
+	column spend_theme
+		dataType: string
+		summarizeBy: none
+		sourceColumn: spend_theme
+
+	partition dim_spend_category = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolder & "dim_spend_category.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					Typed = Table.TransformColumnTypes(Promoted, {{"spend_category_key", Int64.Type}, {"spend_category", type text}, {"spend_theme", type text}}, "en-GB")
+				in
+					Typed
