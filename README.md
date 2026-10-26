@@ -1,6 +1,6 @@
 # Council Spending Analytics: SQL + Python + Power BI
 
-**Author: Anurag Moyal** · Data Analytics Portfolio Project
+Author: Anurag Moyal
 
 An end-to-end analytics project on **local-government "payments over £500" open data**: 14 monthly files (Apr 2025 - May 2026, CSV and Excel) are combined into one cleaned SQL star schema, quality-checked, optionally categorised with a text-classification model, and prepared for a Power BI dashboard on spend by supplier, category and month, with KPIs and data-quality checks.
 
@@ -18,7 +18,7 @@ An end-to-end analytics project on **local-government "payments over £500" open
 * **Real data-quality work, not a tidy dataset** - mixed CSV/Excel formats and date formats, blank rows, supplier-name variants, ~500 redacted payees that must *not* be merged, reused and duplicated supplier IDs, renamed directorates, typos in labels.
 * **Reconciliation you can prove** - `staged rows = loaded + excluded` and `loaded £ = cleaned source £` are asserted on every run (checks DQ01 / DQ02).
 * **Analyst judgement made explicit** - every mapping (themes, directorates) lives in a SQL table; every assumption is documented in [docs/methodology.md](docs/methodology.md).
-* **An honest ML add-on** - supplier-grouped cross-validation (so the score is not inflated by memorised supplier names), used to build a *coding-review queue* instead of claiming a perfect classifier.
+* **ML add-on with grouped cross-validation** - supplier-grouped CV (so the score is not inflated by memorised supplier names), used to build a *coding-review queue* instead of claiming a perfect classifier.
 * **BI delivery** - a ready-to-open Power BI Project ([`powerbi/council-spending.pbip`](powerbi)): star-schema model, 36 DAX measures, 5 report pages / 67 visuals and a theme. It was opened and refreshed in Power BI Desktop and reconciled to the SQL results (£347.8m, 37,261 lines, 2,645 suppliers). Power Query (M), DAX and a manual build guide are also provided.
 
 ## Key results (all computed by `src/findings.py`; full detail in [docs/findings.md](docs/findings.md))
@@ -66,6 +66,3 @@ Contains public sector information licensed under the [Open Government Licence v
 * Supplier identity is name-based and `spend_theme` / `supplier_type` are analyst-defined groupings - both are documented, editable and should be agreed with a domain owner.
 * Built and run on Hounslow data; adapting it to a different council (for example a Scottish council) is covered in [docs/adapting_to_another_council.md](docs/adapting_to_another_council.md).
 * The Power BI Project (`.pbip`, plain-text files) is included; a binary `.pbix` is not committed - create it with File > Save as after opening the project.
-
-## CV / portfolio wording
-> **Council Spending Analytics (SQL, Python, Power BI)** - Combined 14 monthly open-data payment files (37k lines, £348m) into a validated SQL star schema with an audit trail and reconciliation checks; cleaned supplier master data (name normalisation, redacted-payee handling, duplicate/ID-conflict detection) and built a 22-check data-quality scorecard; built a supplier-grouped text-classification model to surface miscoded spend; designed a Power BI model (DAX, Power Query) covering spend by supplier, category and month.
