@@ -1,5 +1,7 @@
 # Council Spending Analytics: SQL + Python + Power BI
 
+**Author: Anurag Moyal** · Data Analytics Portfolio Project
+
 An end-to-end analytics project on **local-government "payments over £500" open data**: 14 monthly files (Apr 2025 - May 2026, CSV and Excel) are combined into one cleaned SQL star schema, quality-checked, optionally categorised with a text-classification model, and prepared for a Power BI dashboard on spend by supplier, category and month, with KPIs and data-quality checks.
 
 | | |
